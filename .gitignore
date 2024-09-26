@@ -1,0 +1,21 @@
+# dir 不需要提交的目录
+/checkpoints
+/__pycache__
+/hicodet_pkl_files
+/vcoco_pkl_files
+/tsne
+/pred_annotation
+/pred_annotation_CLIP
+/pred_annotation_t2vhoi
+/vis_vcoco
+/params
+
+# file 不需要提交的文件
+Readme.md
+
+# log 不需要提交的任意包含后缀名为log的文件
+*.log
+*.pyc
+
+# Package Files 不需要提交的任意包含后缀名为jar的文件
+# *.jar

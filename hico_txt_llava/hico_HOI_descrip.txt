@@ -1,0 +1,1799 @@
+1. A photo of a person boarding an airplane: 
+   - Description: In this image, a person is seen entering the airplane through the boarding gate. Common features include the presence of boarding pass, airport staff assisting, and the individual carrying personal belongings like luggage or bags. Boarding typically occurs on the jet bridge or stairs leading to the aircraft.
+
+2. A photo of a person directing an airplane: 
+   - Description: The image captures a person in the role of an air traffic controller or ground crew member, directing the movement of an airplane on the ground. This may involve hand signals or communication through a headset. Safety gear such as reflective vests might be present.
+
+3. A photo of a person exiting an airplane: 
+   - Description: In this photograph, a person is disembarking from the airplane after it has landed. Common elements include passengers walking through the aircraft's exit door onto the jet bridge or stairs, possibly with cabin crew in the background. Personal belongings may be in hand.
+
+4. A photo of a person flying an airplane: 
+   - Description: This image features a person in the pilot's seat, actively controlling and flying the airplane. Key attributes include cockpit instrumentation, pilot uniform, and the pilot's focused engagement with controls. The background might show clouds or a clear sky through the cockpit window.
+
+5. A photo of a person inspecting an airplane: 
+   - Description: The scene depicts a person, likely a mechanic or inspector, closely examining various parts of an airplane. This could involve checking the engine, wings, or other components. Tools, safety gear, and technical documentation may be visible in the image.
+
+6. A photo of a person loading an airplane: 
+   - Description: This image captures the process of loading cargo or baggage into the airplane's cargo hold. Ground crew members may be seen using equipment like conveyor belts or carts to load items onto the aircraft. Luggage and cargo containers may also be visible.
+
+7. A photo of a person riding an airplane: 
+   - Description: The photo shows a person comfortably seated inside the airplane's cabin during a flight. Attributes include in-flight entertainment, seats, seat belts, and possibly a window view. Passengers may be engaged in activities like reading, sleeping, or watching the onboard entertainment.
+
+8. A photo of a person sitting on an airplane: 
+   - Description: In this image, an individual is seated in the airplane but not necessarily during a flight. It could be a scene from the boarding process or while the plane is on the ground. Features include seats, armrests, and possibly a tray table, with the person looking relaxed or engaged.
+
+9. A photo of a person washing an airplane: 
+   - Description: This photo captures a person engaged in cleaning or washing an airplane. It may include the use of hoses, cleaning solutions, and possibly specialized equipment. The person might be wearing cleaning attire and protective gear.
+
+10. A photo of a person and an airplane with no interaction: 
+   - Description: The image shows a person in the vicinity of an airplane but not engaging with it. This could be someone waiting at the airport, observing aircraft on the tarmac, or standing near a parked plane. The focus is on the coexistence rather than direct interaction.
+
+1. A photo of a person carrying a bicycle: 
+   - Description: The image depicts a person physically holding a bicycle, likely lifted off the ground. Common features include the person's posture while carrying the bicycle, with hands on the handlebars and other parts of the frame.
+
+2. A photo of a person holding a bicycle: 
+   - Description: In this photograph, a person is standing while holding a stationary bicycle. The individual may be posing with the bicycle, showcasing certain features, and could be stationary or in motion.
+
+3. A photo of a person inspecting a bicycle: 
+   - Description: The scene captures a person closely examining a bicycle, checking its components, and possibly making adjustments. Attributes may include tools, a focused expression, and the bicycle positioned for inspection.
+
+4. A photo of a person jumping a bicycle: 
+   - Description: This dynamic image shows a person in mid-air, performing a jump with a bicycle. Key elements include the person's posture, the height of the jump, and the bicycle's position. It conveys a sense of action and skill.
+
+5. A photo of a person hopping on a bicycle: 
+   - Description: The photo portrays a person in the process of mounting a bicycle, one foot on the ground and the other lifting onto the pedal. It captures the fluid motion of getting onto the bicycle.
+
+6. A photo of a person parking a bicycle: 
+   - Description: In this image, a person is shown securing or placing a bicycle in a designated parking area. Features include bike racks, parking infrastructure, and the person's actions in ensuring the bicycle is properly parked.
+
+7. A photo of a person pushing a bicycle: 
+   - Description: The scene illustrates a person exerting force to move a bicycle without riding it. It could be in a parking area, along a path, or in another setting. Elements include the person's posture and the direction of movement.
+
+8. A photo of a person repairing a bicycle: 
+   - Description: The image captures a person engaged in the maintenance or repair of a bicycle. Tools, spare parts, and a focused expression may be visible as the individual works on the bike.
+
+9. A photo of a person riding a bicycle: 
+   - Description: This common scenario showcases a person actively cycling. Key elements include the person's posture on the bicycle, pedaling action, and the environment, which could be a road, trail, or any cycling-friendly area.
+
+10. A photo of a person sitting on a bicycle: 
+    - Description: The photo shows a person in a stationary position, seated on a bicycle. This could be in a relaxed pose or preparing to start cycling. Features include the person's posture, the bicycle's design, and the surroundings.
+
+11. A photo of a person straddling a bicycle: 
+    - Description: The image captures a person standing over a bicycle with legs on either side, ready to mount or dismount. It conveys a transitional moment in the cycling process.
+
+12. A photo of a person walking a bicycle: 
+    - Description: The scene depicts a person walking alongside a bicycle, not riding it. This could be in a pedestrian area, on a sidewalk, or in any non-cycling zone. The person's posture and the direction of movement are key elements.
+
+13. A photo of a person washing a bicycle: 
+    - Description: The photo shows a person cleaning or washing a bicycle, possibly using water, soap, and cleaning tools. The bicycle may be positioned for maintenance, and the person might be wearing appropriate cleaning attire.
+
+14. A photo of a person and a bicycle with no interaction: 
+    - Description: This image captures a person and a bicycle coexisting in the same frame without any direct interaction. It could be a scene where the bicycle is parked, and the person is nearby, but not actively engaging with the bike.
+
+1. A photo of a person chasing a bird: 
+   - Description: The image captures a person in motion, actively pursuing or following a bird. The person's posture may convey a sense of movement, and the bird is likely in flight or on the ground, reacting to the pursuit.
+
+2. A photo of a person feeding a bird: 
+   - Description: In this photograph, a person is seen providing food to a bird. Common elements include the person holding bird feed, seeds, or other suitable food items. The bird may be perched nearby, in flight, or actively feeding.
+
+3. A photo of a person holding a bird: 
+   - Description: The scene depicts a person holding a bird, either in their hands or on their arm. Attributes include the person's gentle touch, the bird's species, and the interaction between the person and the bird.
+
+4. A photo of a person petting a bird: 
+   - Description: The image shows a person affectionately stroking or petting a bird, highlighting a bond between the human and the feathered companion. The bird may be perched on the person's hand or another surface.
+
+5. A photo of a person releasing a bird: 
+   - Description: This scene captures the moment when a person is letting a bird go, possibly after rehabilitation or as part of a release program. The person's hands and posture convey care, and the bird may be in mid-flight or taking its first steps to freedom.
+
+6. A photo of a person watching a bird: 
+   - Description: The photograph portrays a person observing a bird, possibly in a natural setting like a park or backyard. The person's gaze and body language convey curiosity or admiration, emphasizing the connection between humans and nature.
+
+7. A photo of a person and a bird: 
+   - Description: This image features a person and a bird coexisting in the same frame without any specific interaction. It could be a scene where the person and the bird share a moment, emphasizing the harmony between humans and wildlife.
+
+1. A photo of a person boarding a boat: 
+   - Description: The image captures a person in the process of getting onto a boat. Common features include a boarding platform, gangway, or dock. The person may be carrying personal items or showing a ticket.
+
+2. A photo of a person driving a boat: 
+   - Description: In this photograph, a person is actively operating the controls of a boat, typically at the helm or steering wheel. The background may include the watercraft's navigation instruments, and the person may be wearing nautical attire.
+
+3. A photo of a person exiting a boat: 
+   - Description: The scene shows a person disembarking from a boat. Common elements include a dock, landing, or exit platform. The person may be carrying belongings or interacting with others on the shore.
+
+4. A photo of a person inspecting a boat: 
+   - Description: This image captures a person closely examining a boat, checking its structure, equipment, or cleanliness. Tools, safety gear, and a focused expression may be visible as the person inspects various parts of the watercraft.
+
+5. A photo of a person jumping a boat: 
+   - Description: The dynamic scene shows a person leaping onto or off a boat, conveying a sense of action. The person's posture, the boat's position, and the surrounding water contribute to the energetic atmosphere.
+
+6. A photo of a person launching a boat: 
+   - Description: The photograph depicts a person engaged in the process of putting a boat into the water. This could involve a boat ramp, trailer, or other launch infrastructure. The person may be guiding the boat or checking its readiness.
+
+7. A photo of a person repairing a boat: 
+   - Description: The image captures a person involved in the maintenance or repair of a boat. Tools, spare parts, and a focused expression may be visible as the individual works on the boat's structure or systems.
+
+8. A photo of a person riding a boat: 
+   - Description: This common scenario showcases a person seated or standing on a boat during a journey. Key elements include the person's posture, the boat's design, and the surrounding water or scenery.
+
+9. A photo of a person rowing a boat: 
+   - Description: The scene shows a person using oars to propel a rowboat. The person's rowing technique, the boat's movement, and the water's surface may be highlighted in the image.
+
+10. A photo of a person sailing a boat: 
+    - Description: The photograph features a person navigating a boat under sail. Attributes include the person's interaction with the sail, the boat's position in the wind, and the general sailing environment.
+
+11. A photo of a person sitting on a boat: 
+    - Description: In this image, a person is shown seated in a stationary position on a boat. Features include the person's posture, relaxation, and possibly interaction with the boat's controls or equipment.
+
+12. A photo of a person standing on a boat: 
+    - Description: The photo captures a person in a standing position on a boat. This could be at the helm, on the deck, or another location. The person's posture and interaction with the boat contribute to the overall scene.
+
+13. A photo of a person tying a boat: 
+    - Description: The scene shows a person securing a boat to a dock or mooring by tying knots. The person's hands, the boat's lines, and the surrounding environment may be highlighted in the image.
+
+14. A photo of a person washing a boat: 
+    - Description: The photo features a person cleaning or washing a boat, possibly using water, soap, and cleaning tools. The boat may be on land or in the water, and the person might be wearing appropriate cleaning attire.
+
+15. A photo of a person and a boat: 
+    - Description: This image captures a person and a boat coexisting in the same frame without any specific interaction. It could be a scene where the person is near the boat, emphasizing the connection between humans and watercraft.
+
+1. A photo of a person carrying a bottle: 
+   - Description: The image captures a person holding and transporting a bottle, likely containing liquid. The person's posture and the type of bottle (water, beverage, etc.) may provide context.
+
+2. A photo of a person drinking with a bottle: 
+   - Description: In this photograph, a person is seen actively consuming a beverage from a bottle. Key elements include the person's drinking posture, the type of beverage, and the visual connection between the person and the bottle.
+
+3. A photo of a person holding a bottle: 
+   - Description: The scene shows a person in a stationary position holding a bottle, with a focus on the person's grip and the characteristics of the bottle. This could include the bottle's shape, label, or contents.
+
+4. A photo of a person inspecting a bottle: 
+   - Description: The image captures a person closely examining a bottle, possibly checking its contents, expiration date, or quality. The person's hands and focused expression may be visible as they inspect the bottle.
+
+5. A photo of a person licking a bottle: 
+   - Description: This dynamic scene shows a person licking a bottle, possibly to taste the contents or for a playful gesture. The person's facial expression and the interaction with the bottle convey a sense of engagement.
+
+6. A photo of a person opening a bottle: 
+   - Description: The photograph features a person in the process of opening a bottle. This could involve using a bottle opener, twist cap, or other methods. The person's hands and the bottle's closure mechanism may be highlighted.
+
+7. A photo of a person pouring a bottle: 
+   - Description: The scene captures a person pouring liquid from a bottle into another container, glass, or directly. Key elements include the pouring action, the type of liquid, and the person's focus on the pouring process.
+
+8. A photo of a person and a bottle: 
+   - Description: This image features a person and a bottle coexisting in the same frame without any specific interaction. It could be a scene where the person is holding or sitting near the bottle, emphasizing the connection between the individual and the object.
+
+1. A photo of a person boarding a bus: 
+   - Description: The image captures a person entering a bus through the entrance door. Common features include a boarding platform, ticket or card in hand, and other passengers in the background.
+
+2. A photo of a person directing a bus: 
+   - Description: In this photograph, a person is seen guiding or directing the movement of a bus, possibly as a traffic officer or ground crew member. Hand signals, reflective gear, and a focused expression may be visible.
+
+3. A photo of a person driving a bus: 
+   - Description: The scene features a person actively operating the controls of a bus, typically at the driver's seat. Attributes include the steering wheel, dashboard, and the person's focus on the road.
+
+4. A photo of a person exiting a bus: 
+   - Description: The photograph captures a person disembarking from a bus. Common elements include the exit door, steps, and the person's posture as they leave the vehicle.
+
+5. A photo of a person inspecting a bus: 
+   - Description: This image depicts a person closely examining a bus, possibly checking for maintenance issues, cleanliness, or safety features. Tools, safety gear, and a focused expression may be visible.
+
+6. A photo of a person loading a bus: 
+   - Description: The scene shows a person involved in the process of loading passengers or cargo onto a bus. Common elements include a bus station, luggage, and passengers boarding.
+
+7. A photo of a person riding a bus: 
+   - Description: This common scenario showcases a person seated inside a bus during a journey. Key elements include the person's posture, interaction with other passengers, and the interior of the bus.
+
+8. A photo of a person sitting on a bus: 
+   - Description: In this image, a person is shown seated in a stationary position on a bus, waiting or relaxing. Features include the person's posture, possibly looking out the window, and the interior of the bus.
+
+9. A photo of a person washing a bus: 
+   - Description: The photo features a person cleaning or washing a bus, possibly using water, soap, and cleaning tools. The person may be in the process of cleaning the exterior surfaces.
+
+10. A photo of a person waving a bus: 
+    - Description: The scene captures a person signaling or waving to a bus, possibly to catch its attention or indicate a stop. The person's gesture and the bus in motion may be highlighted.
+
+11. A photo of a person and a bus: 
+    - Description: This image features a person and a bus coexisting in the same frame without any specific interaction. It could be a scene where the person is standing near the bus, waiting, or observing.
+
+1. A photo of a person boarding a car: 
+   - Description: The image captures a person entering a car, opening the door and possibly holding keys. Common features include the car's interior, the person's posture while getting in, and any accompanying luggage or belongings.
+
+2. A photo of a person directing a car: 
+   - Description: In this photograph, a person is seen guiding or directing the movement of a car, possibly as a traffic officer or ground crew member. Hand signals, reflective gear, and a focused expression may be visible.
+
+3. A photo of a person driving a car: 
+   - Description: The scene features a person actively operating the controls of a car, typically at the driver's seat. Attributes include the steering wheel, dashboard, and the person's focus on the road.
+
+4. A photo of a person hosing a car: 
+   - Description: The photo shows a person using a hose to clean or wash a car. Common elements include water, soap, cleaning tools, and the person's attention to various parts of the car's exterior.
+
+5. A photo of a person inspecting a car: 
+   - Description: This image depicts a person closely examining a car, possibly checking for maintenance issues, cleanliness, or safety features. Tools, safety gear, and a focused expression may be visible.
+
+6. A photo of a person jumping a car: 
+   - Description: The dynamic scene shows a person leaping over or onto a car, possibly for recreational or sportive purposes. The person's posture, the car's position, and the surrounding environment contribute to the energetic atmosphere.
+
+7. A photo of a person loading a car: 
+   - Description: The scene shows a person involved in the process of loading items into a car, such as luggage or other cargo. Common elements include a trunk or open car space, and the person arranging belongings.
+
+8. A photo of a person parking a car: 
+   - Description: The photograph captures a person parking a car, either parallel or in a designated spot. Common features include parking signs, other vehicles, and the person's attention to the parking process.
+
+9. A photo of a person riding a car: 
+   - Description: This common scenario showcases a person seated inside a car during a journey. Key elements include the person's posture, interaction with other passengers, and the interior of the car.
+
+10. A photo of a person washing a car: 
+    - Description: The photo features a person cleaning or washing a car, possibly using water, soap, and cleaning tools. The person may be in the process of cleaning the exterior surfaces.
+
+11. A photo of a person and a car: 
+    - Description: This image features a person and a car coexisting in the same frame without any specific interaction. It could be a scene where the person is standing near the car, waiting, or observing.
+
+1. A photo of a person drying a cat: 
+   - Description: The image captures a person in the process of drying a cat, possibly after a bath or grooming session. Common features include towels, a grooming area, and the cat's reaction to being dried.
+
+2. A photo of a person feeding a cat: 
+   - Description: In this photograph, a person is seen offering food to a cat. Key elements include the type of food, the feeding gesture, and the cat's response to the meal.
+
+3. A photo of a person holding a cat: 
+   - Description: The scene shows a person cradling or holding a cat, emphasizing the bond between the human and the feline companion. Attributes include the person's hands, the cat's posture, and their interaction.
+
+4. A photo of a person hugging a cat: 
+   - Description: This heartwarming image captures a person embracing a cat in a hug. The scene emphasizes the affectionate connection between the individual and the cat.
+
+5. A photo of a person kissing a cat: 
+   - Description: The photograph features a person expressing love by kissing a cat. This intimate moment showcases the bond between the person and the feline companion.
+
+6. A photo of a person petting a cat: 
+   - Description: The image shows a person gently stroking or petting a cat. Common features include the person's hand, the cat's fur, and the expression of contentment on the cat's face.
+
+7. A photo of a person scratching a cat: 
+   - Description: This scene captures a person scratching a cat, focusing on the tactile interaction between the person's hand and the cat's preferred scratching spots.
+
+8. A photo of a person washing a cat: 
+   - Description: The photo features a person bathing or washing a cat. Common elements include water, soap, towels, and the cat's response to the grooming process.
+
+9. A photo of a person chasing a cat: 
+   - Description: The dynamic scene shows a person engaging in playful interaction by chasing a cat. The atmosphere is likely lighthearted, with both the person and the cat enjoying the playful moment.
+
+10. A photo of a person and a cat: 
+    - Description: This image features a person and a cat coexisting in the same frame without any specific interaction. It could be a scene where the person is sitting with the cat, emphasizing the companionship between humans and their feline friends.
+
+1. A photo of a person carrying a chair: 
+   - Description: The image captures a person transporting a chair, likely holding it with hands or on their shoulder. The person's posture, the type of chair, and the surroundings may provide context.
+
+2. A photo of a person holding a chair: 
+   - Description: The scene shows a person in a stationary position, holding a chair. Attributes include the person's grip, the chair's design, and any interaction or purpose behind holding the chair.
+
+3. A photo of a person lying on a chair: 
+   - Description: This image features a person reclining or lying on a chair, emphasizing relaxation. The person's posture, the chair's design, and the overall atmosphere convey a sense of comfort.
+
+4. A photo of a person sitting on a chair: 
+   - Description: The common scenario showcases a person seated on a chair. Key elements include the person's posture, the chair's design, and the surroundings where the person is sitting.
+
+5. A photo of a person standing on a chair: 
+   - Description: The photograph captures a person standing on a chair. This could be for reaching something high or for a specific purpose. Attributes include the person's stance, the chair's stability, and the surroundings.
+
+6. A photo of a person and a chair: 
+   - Description: This image features a person and a chair coexisting in the same frame without any specific interaction. It could be a scene where the person is near the chair, emphasizing the presence of both elements.
+
+1. A photo of a person carrying a couch: 
+   - Description: The image captures a person carrying a couch, likely using their strength and possibly with the help of others. Common features include the person's posture, the size and style of the couch, and the effort involved in transportation.
+
+2. A photo of a person lying on a couch: 
+   - Description: This scene features a person reclining or lying comfortably on a couch, showcasing a relaxed and leisurely moment. Attributes include the person's posture, the couch's design, and any accompanying elements contributing to comfort.
+
+3. A photo of a person sitting on a couch: 
+   - Description: The common scenario showcases a person seated on a couch. Key elements include the person's posture, the type of seating arrangement, and the surroundings where the person is sitting.
+
+4. A photo of a person and a couch: 
+   - Description: This image features a person and a couch coexisting in the same frame without any specific interaction. It could be a scene where the person is near the couch, emphasizing the presence of both elements.
+
+1. A photo of a person feeding a cow: 
+   - Description: The image captures a person providing food to a cow. Common elements include the person holding or offering feed, the cow's response, and the overall setting, such as a pasture or feeding area.
+
+2. A photo of a person herding a cow: 
+   - Description: In this photograph, a person is seen guiding or directing a cow, possibly as part of herding or movement within a specific area. Common elements include the person's gestures, the cow's position, and the surrounding environment.
+
+3. A photo of a person holding a cow: 
+   - Description: The scene shows a person in close proximity to a cow, possibly holding onto a part of the cow for various reasons. Attributes include the person's interaction with the cow and the cow's response.
+
+4. A photo of a person hugging a cow: 
+   - Description: This heartwarming image captures a person embracing or hugging a cow. The scene emphasizes the affectionate connection between the individual and the bovine companion.
+
+5. A photo of a person kissing a cow: 
+   - Description: The photograph features a person expressing love by kissing a cow. This intimate moment showcases the bond between the person and the bovine companion.
+
+6. A photo of a person lassoing a cow: 
+   - Description: The dynamic scene shows a person skillfully using a lasso to catch or control a cow. The person's technique, the cow's response, and the overall environment contribute to the energetic atmosphere.
+
+7. A photo of a person milking a cow: 
+   - Description: The photo captures a person engaged in the process of milking a cow. Common elements include milking equipment, a bucket, and the person's interaction with the cow during the milking process.
+
+8. A photo of a person petting a cow: 
+   - Description: The image shows a person gently stroking or petting a cow. Common features include the person's hand, the cow's fur, and the expression of contentment on the cow's face.
+
+9. A photo of a person riding a cow: 
+   - Description: The unusual scene features a person sitting on or riding a cow. This could be for various reasons, and attributes include the person's posture, the cow's tolerance, and the surrounding environment.
+
+10. A photo of a person walking a cow: 
+    - Description: The scene depicts a person leading a cow while walking. This could be in a pastoral setting, and attributes include the person's posture, the cow's movement, and the surroundings.
+
+11. A photo of a person and a cow: 
+    - Description: This image features a person and a cow coexisting in the same frame without any specific interaction. It could be a scene where the person is standing near the cow, emphasizing the presence of both elements.
+
+1. A photo of a person cleaning a dining table: 
+   - Description: The image captures a person in the act of cleaning a dining table. Common elements include cleaning supplies, a cloth, and the person's focused attention on maintaining the cleanliness of the table surface.
+
+2. A photo of a person eating at a dining table: 
+   - Description: This common scenario showcases a person seated at a dining table, engaged in the act of eating. Key elements include the person's posture, the table setting, and the type of food being consumed.
+
+3. A photo of a person sitting at a dining table: 
+   - Description: The photograph features a person seated at a dining table, possibly engaged in conversation, work, or leisure activities. Attributes include the person's posture, the table's design, and any accompanying items on the table.
+
+4. A photo of a person and a dining table: 
+   - Description: This image features a person and a dining table coexisting in the same frame without any specific interaction. It could be a scene where the person is near the dining table, emphasizing the presence of both elements.
+
+1. A photo of a person carrying a dog: 
+   - Description: The image captures a person holding a dog, possibly carrying it in their arms or on their shoulder. Common features include the person's posture, the dog's size, and the overall interaction between the person and the canine.
+
+2. A photo of a person drying a dog: 
+   - Description: The scene features a person drying a dog, likely after a bath or grooming session. Common elements include towels, grooming tools, and the dog's response to the drying process.
+
+3. A photo of a person feeding a dog: 
+   - Description: In this photograph, a person is seen offering food to a dog. Key elements include the type of food, the feeding gesture, and the dog's response to the meal.
+
+4. A photo of a person grooming a dog: 
+   - Description: The image captures a person engaged in grooming activities with a dog. Common elements include brushes, grooming tools, and the dog's reaction to the grooming process.
+
+5. A photo of a person holding a dog: 
+   - Description: The scene shows a person in close proximity to a dog, possibly holding the dog in their arms or against their body. Attributes include the person's interaction with the dog and the dog's response.
+
+6. A photo of a person hosing a dog: 
+   - Description: This photograph features a person using a hose to wash or rinse a dog. Common elements include water, soap, cleaning tools, and the dog's reaction to the bathing process.
+
+7. A photo of a person hugging a dog: 
+   - Description: This heartwarming image captures a person embracing or hugging a dog. The scene emphasizes the affectionate connection between the individual and the canine companion.
+
+8. A photo of a person inspecting a dog: 
+   - Description: The photo depicts a person closely examining a dog, possibly checking for health issues, grooming needs, or overall well-being. The person's hands and focused expression may be visible.
+
+9. A photo of a person kissing a dog: 
+   - Description: The photograph features a person expressing love by kissing a dog. This intimate moment showcases the bond between the person and the canine companion.
+
+10. A photo of a person petting a dog: 
+    - Description: The image shows a person gently stroking or petting a dog. Common features include the person's hand, the dog's fur, and the expression of contentment on the dog's face.
+
+11. A photo of a person running with a dog: 
+    - Description: The dynamic scene captures a person jogging or running alongside a dog. The atmosphere is likely energetic, with both the person and the dog in motion.
+
+12. A photo of a person scratching a dog: 
+    - Description: The scene shows a person scratching a dog, focusing on the tactile interaction between the person's hand and the dog's preferred scratching spots.
+
+13. A photo of a person straddling a dog: 
+    - Description: The unusual scene features a person straddling or sitting on a dog. This could be for various reasons, and attributes include the person's posture and the dog's tolerance.
+
+14. A photo of a person training a dog: 
+    - Description: The photo captures a person engaged in training activities with a dog. Common elements include training tools, commands, and the dog's response to the training process.
+
+15. A photo of a person walking a dog: 
+    - Description: The scene depicts a person walking a dog, possibly in a park or outdoor setting. Attributes include the person's posture, the dog's movement, and the overall environment.
+
+16. A photo of a person washing a dog: 
+    - Description: The photo features a person cleaning or washing a dog, possibly using water, soap, and grooming tools. The person may be in the process of cleaning the dog's fur or giving it a bath.
+
+17. A photo of a person chasing a dog: 
+    - Description: The dynamic scene shows a person engaging in playful interaction by chasing a dog. The atmosphere is likely lighthearted, with both the person and the dog enjoying the playful moment.
+
+18. A photo of a person and a dog: 
+    - Description: This image features a person and a dog coexisting in the same frame without any specific interaction. It could be a scene where the person is sitting or standing near the dog, emphasizing the companionship between humans and their canine friends.
+
+1. A photo of a person feeding a horse: 
+   - Description: The image captures a person offering food to a horse. Common elements include the type of feed, the person's gesture, and the horse's response to the feeding.
+
+2. A photo of a person grooming a horse: 
+   - Description: The scene features a person engaged in grooming activities with a horse. Common elements include grooming tools, brushes, and the horse's response to the grooming process.
+
+3. A photo of a person holding a horse: 
+   - Description: The photograph shows a person in close proximity to a horse, possibly holding onto a part of the horse for various reasons. Attributes include the person's interaction with the horse and the horse's response.
+
+4. A photo of a person hugging a horse: 
+   - Description: This heartwarming image captures a person embracing or hugging a horse. The scene emphasizes the affectionate connection between the individual and the equine companion.
+
+5. A photo of a person jumping a horse: 
+   - Description: The dynamic scene captures a person jumping over or onto a horse, possibly for recreational or sportive purposes. Attributes include the person's posture, the horse's position, and the surrounding environment.
+
+6. A photo of a person kissing a horse: 
+   - Description: The photograph features a person expressing love by kissing a horse. This intimate moment showcases the bond between the person and the equine companion.
+
+7. A photo of a person loading a horse: 
+   - Description: The scene shows a person involved in the process of loading a horse, possibly onto a trailer or transport vehicle. Common elements include the loading area, equipment, and the horse's cooperation.
+
+8. A photo of a person hopping on a horse: 
+   - Description: This scene captures a person mounting or hopping onto a horse, preparing for a ride. Attributes include the person's posture, the horse's stance, and any accompanying riding equipment.
+
+9. A photo of a person petting a horse: 
+   - Description: The image shows a person gently stroking or petting a horse. Common features include the person's hand, the horse's coat, and the expression of contentment on the horse's face.
+
+10. A photo of a person racing a horse: 
+    - Description: The dynamic scene captures a person engaged in a horse race, showcasing speed and competition. Attributes include the person's posture, riding gear, and the intensity of the race.
+
+11. A photo of a person riding a horse: 
+    - Description: This common scenario showcases a person seated on a horse during a ride. Key elements include the person's posture, interaction with the horse, and the riding environment.
+
+12. A photo of a person running a horse: 
+    - Description: The dynamic scene captures a person running alongside a horse, possibly for training or exercise. The atmosphere is likely energetic, with both the person and the horse in motion.
+
+13. A photo of a person straddling a horse: 
+    - Description: The scene shows a person straddling or sitting on a horse. This could be for various reasons, such as preparing for a ride or training exercises. Attributes include the person's posture and the horse's tolerance.
+
+14. A photo of a person training a horse: 
+    - Description: The photo captures a person engaged in training activities with a horse. Common elements include training tools, commands, and the horse's response to the training process.
+
+15. A photo of a person walking a horse: 
+    - Description: The scene depicts a person leading a horse while walking. This could be in a stable or outdoor setting, and attributes include the person's posture, the horse's movement, and the surroundings.
+
+16. A photo of a person washing a horse: 
+    - Description: The photo features a person cleaning or washing a horse, possibly using water, soap, and grooming tools. The person may be in the process of cleaning the horse's coat or hooves.
+
+17. A photo of a person and a horse: 
+    - Description: This image features a person and a horse coexisting in the same frame without any specific interaction. It could be a scene where the person is standing near the horse, emphasizing the companionship between humans and their equine friends.
+
+1. A photo of a person holding a motorcycle: 
+   - Description: The image captures a person in a stationary position holding a motorcycle. Common elements include the person's posture, the motorcycle's design, and any specific features being highlighted.
+
+2. A photo of a person inspecting a motorcycle: 
+   - Description: The photograph features a person closely examining a motorcycle, possibly checking for maintenance issues, cleanliness, or specific features. Tools, safety gear, and a focused expression may be visible.
+
+3. A photo of a person jumping a motorcycle: 
+   - Description: The dynamic scene shows a person jumping over or onto a motorcycle, possibly for recreational or sportive purposes. Attributes include the person's posture, the motorcycle's position, and the surrounding environment.
+
+4. A photo of a person hopping on a motorcycle: 
+   - Description: This scene captures a person mounting or hopping onto a motorcycle, preparing for a ride. Attributes include the person's posture, the motorcycle's stance, and any accompanying riding gear.
+
+5. A photo of a person parking a motorcycle: 
+   - Description: The photograph captures a person parking a motorcycle, either in a designated spot or a more casual setting. Common features include the person's attention to parking details, the motorcycle's position, and any relevant surroundings.
+
+6. A photo of a person pushing a motorcycle: 
+   - Description: The scene shows a person pushing a motorcycle, possibly for parking, maneuvering, or assistance. Common elements include the person's posture, the motorcycle's movement, and any relevant surroundings.
+
+7. A photo of a person racing a motorcycle: 
+   - Description: The dynamic scene captures a person engaged in a motorcycle race, showcasing speed and competition. Attributes include the person's posture, riding gear, and the intensity of the race.
+
+8. A photo of a person riding a motorcycle: 
+   - Description: This common scenario showcases a person actively operating a motorcycle. Key elements include the person's posture, interaction with the motorcycle's controls, and the riding environment.
+
+9. A photo of a person sitting on a motorcycle: 
+   - Description: The photograph features a person seated on a motorcycle, possibly stationary or preparing to start a ride. Attributes include the person's posture, the motorcycle's design, and any accompanying gear.
+
+10. A photo of a person straddling a motorcycle: 
+    - Description: The scene shows a person straddling or standing over a stationary motorcycle. This could be for various reasons, such as preparing for a ride or posing for a photo. Attributes include the person's posture and the motorcycle's design.
+
+11. A photo of a person turning a motorcycle: 
+    - Description: The image captures a person turning or steering a motorcycle, possibly during a ride or while parking. Common features include the person's hand on the handlebars, the motorcycle's movement, and any relevant surroundings.
+
+12. A photo of a person walking a motorcycle: 
+    - Description: The scene depicts a person walking alongside a motorcycle, possibly in a parking lot or a non-riding scenario. Attributes include the person's posture, the motorcycle's movement, and the surrounding environment.
+
+13. A photo of a person washing a motorcycle: 
+    - Description: The photo features a person cleaning or washing a motorcycle, possibly using water, soap, and cleaning tools. The person may be in the process of cleaning the motorcycle's exterior surfaces.
+
+14. A photo of a person and a motorcycle: 
+    - Description: This image features a person and a motorcycle coexisting in the same frame without any specific interaction. It could be a scene where the person is standing near the motorcycle, emphasizing the presence of both elements.
+
+1. A photo of a person carrying a person: 
+   - Description: The image captures a person lifting or carrying another person. Common elements include the person's posture, the manner in which the person is being carried, and the facial expressions of both individuals.
+
+2. A photo of a person greeting a person: 
+   - Description: This scene features a person engaging in a greeting with another person. Common forms of greeting could include a handshake, hug, or other culturally appropriate gestures. Attributes include facial expressions and the overall atmosphere.
+
+3. A photo of a person holding a person: 
+   - Description: The photograph shows a person in close physical proximity to another person, possibly holding them for support, comfort, or celebration. Attributes include the nature of the hold and the expressions on both individuals' faces.
+
+4. A photo of a person hugging a person: 
+   - Description: This heartwarming image captures a person embracing or hugging another person. The scene emphasizes the affectionate connection and emotions between the individuals.
+
+5. A photo of a person kissing a person: 
+   - Description: The photograph features a person expressing affection by kissing another person. This intimate moment showcases the bond and emotions shared between the individuals.
+
+6. A photo of a person stabbing a person: 
+   - Description: This distressing and potentially sensitive image may depict an act of violence where one person is harming another with a stabbing motion. It is essential to approach such imagery with caution due to its graphic nature.
+
+7. A photo of a person tagging a person: 
+   - Description: The scene shows a person engaging in a tagging or labeling activity with another person, possibly in a playful or collaborative context. Attributes include the tagging gesture and the expressions of both individuals.
+
+8. A photo of a person teaching a person: 
+   - Description: The image captures a person in the role of a teacher, imparting knowledge or skills to another person. Attributes include the teaching environment, instructional tools, and the engagement of both individuals.
+
+9. A photo of a person licking a person: 
+   - Description: This potentially intimate or playful image features a person licking another person. Interpretations may vary, and the context will determine the nature of the interaction.
+
+10. A photo of a person and a person: 
+    - Description: This general scene features two individuals coexisting in the same frame without any specific interaction. It could be a candid moment or a posed scenario, emphasizing the presence of both individuals.
+
+1. A photo of a person carrying a potted plant: 
+   - Description: The image captures a person holding and transporting a potted plant. Common elements include the person's posture, the type of plant, and any visible care being taken during transportation.
+
+2. A photo of a person holding a potted plant: 
+   - Description: The photograph features a person holding a potted plant, showcasing care and attention to the greenery. Attributes include the person's posture, the type of plant, and any visible details of the pot.
+
+3. A photo of a person hosing a potted plant: 
+   - Description: The scene shows a person using a hose to water a potted plant. Common elements include the watering process, the type of plant, and the person's attention to plant care.
+
+4. A photo of a person and a potted plant: 
+   - Description: This general scene features a person and a potted plant coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+5. A photo of a person carrying a sheep: 
+   - Description: This unusual scene captures a person carrying a sheep, possibly for reasons like transport or care. Attributes include the person's posture, the sheep's response, and the overall context.
+
+6. A photo of a person feeding a sheep: 
+   - Description: The image features a person providing food to a sheep. Common elements include the type of feed, the person's gesture, and the sheep's response to the feeding.
+
+7. A photo of a person herding a sheep: 
+   - Description: In this photograph, a person is seen guiding or directing a sheep, possibly as part of herding or movement within a specific area. Attributes include the person's gestures, the sheep's position, and the surrounding environment.
+
+8. A photo of a person holding a sheep: 
+   - Description: The scene shows a person in close proximity to a sheep, possibly holding onto the sheep for various reasons. Attributes include the person's interaction with the sheep and the sheep's response.
+
+9. A photo of a person hugging a sheep: 
+   - Description: This heartwarming image captures a person embracing or hugging a sheep. The scene emphasizes the affectionate connection between the individual and the ovine companion.
+
+10. A photo of a person kissing a sheep: 
+    - Description: The photograph features a person expressing love by kissing a sheep. This intimate moment showcases the bond between the person and the woolly companion.
+
+11. A photo of a person petting a sheep: 
+    - Description: The image shows a person gently stroking or petting a sheep. Common features include the person's hand, the sheep's wool, and the expression of contentment on the sheep's face.
+
+12. A photo of a person riding a sheep: 
+    - Description: The unusual scene features a person sitting on or riding a sheep. This could be for various reasons, and attributes include the person's posture, the sheep's tolerance, and the surrounding environment.
+
+13. A photo of a person shearing a sheep: 
+    - Description: The scene captures a person engaged in the process of shearing a sheep. Common elements include shearing tools, the person's technique, and the sheep's response to the grooming process.
+
+14. A photo of a person walking a sheep: 
+    - Description: The scene depicts a person leading a sheep while walking. This could be in a pastoral setting, and attributes include the person's posture, the sheep's movement, and the overall environment.
+
+15. A photo of a person washing a sheep: 
+    - Description: The photo features a person cleaning or washing a sheep, possibly using water, soap, and grooming tools. The person may be in the process of cleaning the sheep's wool or hooves.
+
+16. A photo of a person and a sheep: 
+    - Description: This image features a person and a sheep coexisting in the same frame without any specific interaction. It could be a scene where the person is near the sheep, emphasizing the companionship between humans and their ovine friends.
+
+1. A photo of a person boarding a train: 
+   - Description: The image captures a person entering a train, possibly at a station platform. Common elements include the person's posture, the train's doors, and any visible signs of travel preparation.
+
+2. A photo of a person driving a train: 
+   - Description: This scene features a person in the driver's seat, operating a train. Attributes include the person's interaction with the controls, the train's movement, and the surrounding train cabin.
+
+3. A photo of a person exiting a train: 
+   - Description: The photograph showcases a person leaving a train, emphasizing the moment of disembarkation. Common elements include the person's posture, the train's doors, and the station platform.
+
+4. A photo of a person loading a train: 
+   - Description: The scene shows a person involved in the process of loading items onto a train, possibly as part of cargo or baggage handling. Common elements include loading equipment, the person's actions, and the train compartment.
+
+5. A photo of a person riding a train: 
+   - Description: This common scenario captures a person seated inside a moving train. Key elements include the person's posture, the train's interior, and any visible signs of travel comfort.
+
+6. A photo of a person sitting on a train: 
+   - Description: The image features a person in a seated position while inside a train. Attributes include the person's posture, the train's interior, and any accompanying elements such as luggage or electronic devices.
+
+7. A photo of a person washing a train: 
+   - Description: The scene shows a person engaged in the process of cleaning or washing a train, possibly using water, soap, and cleaning tools. Common elements include the cleaning process and the train's exterior surfaces.
+
+8. A photo of a person and a train: 
+   - Description: This general scene features a person and a train coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+9. A photo of a person controlling a TV: 
+   - Description: The image captures a person using a remote control or interacting with the TV's controls. Attributes include the person's gestures, the TV screen, and any visible entertainment setup.
+
+10. A photo of a person repairing a TV: 
+    - Description: This scene features a person engaged in repairing or fixing a television. Common elements include repair tools, the person's focus, and the disassembled parts of the TV.
+
+11. A photo of a person watching a TV: 
+    - Description: The photograph showcases a person in a relaxed position, enjoying content on a TV screen. Attributes include the person's posture, the TV screen, and any visible signs of entertainment.
+
+12. A photo of a person and a TV: 
+    - Description: This general scene features a person and a TV coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+13. A photo of a person buying an apple: 
+    - Description: The scene captures a person engaged in the process of purchasing apples, possibly in a market or grocery store. Common elements include the person's hands, the apples on display, and any relevant shopping context.
+
+14. A photo of a person cutting an apple: 
+    - Description: The image shows a person slicing or cutting an apple, preparing it for consumption. Common elements include cutting tools, the person's hands, and the apple being prepared.
+
+15. A photo of a person eating an apple: 
+    - Description: This common scenario captures a person enjoying a bite or eating an apple. Key elements include the person's facial expression, the apple being consumed, and any visible signs of enjoyment.
+
+16. A photo of a person holding an apple: 
+    - Description: The photograph features a person holding an apple, showcasing the fruit in hand. Attributes include the person's posture, the type of apple, and any visible details.
+
+17. A photo of a person inspecting an apple: 
+    - Description: The scene shows a person closely examining an apple, possibly checking for freshness or quality. Common elements include the person's hands, the apple, and any visible signs of inspection.
+
+18. A photo of a person peeling an apple: 
+    - Description: This image captures a person in the process of peeling an apple, using a peeler or knife. Common elements include the peeling action, the person's hands, and the apple being prepared.
+
+19. A photo of a person picking an apple: 
+    - Description: The scene showcases a person harvesting or picking apples, possibly from a tree or orchard
+
+- Class: A photo of a person smelling an apple.
+  Description: The image captures a person actively smelling an apple, emphasizing the olfactory interaction and suggesting an appreciation for the aroma.
+
+- Class: A photo of a person washing an apple.
+  Description: The person is engaged in the process of washing an apple, highlighting hygiene practices and preparing the fruit for consumption.
+
+- Class: A photo of a person and an apple.
+  Description: The photo includes both a person and an apple, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+1. A photo of a person carrying a backpack: 
+   - Description: The image captures a person with a backpack worn on their shoulders. Attributes include the person's posture, the type of backpack, and any visible signs of travel or activity.
+
+2. A photo of a person holding a backpack: 
+   - Description: The photograph features a person holding a backpack, possibly showcasing its design or contents. Attributes include the person's posture, the backpack's details, and any visible items being held.
+
+3. A photo of a person inspecting a backpack: 
+   - Description: The scene shows a person closely examining a backpack, possibly checking its compartments, zippers, or contents. Common elements include the person's hands, the backpack, and any visible signs of inspection.
+
+4. A photo of a person opening a backpack: 
+   - Description: This image captures a person in the process of opening a backpack, revealing its interior. Attributes include the person's actions, the backpack's design, and any visible items being accessed.
+
+5. A photo of a person wearing a backpack: 
+   - Description: The common scenario showcases a person wearing a backpack on their back. Key elements include the person's posture, the type of backpack, and any visible signs of travel or daily use.
+
+6. A photo of a person and a backpack: 
+   - Description: This general scene features a person and a backpack coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+7. A photo of a person buying a banana: 
+   - Description: The scene captures a person engaged in the process of purchasing bananas, possibly in a market or grocery store. Common elements include the person's hands, the bananas on display, and any relevant shopping context.
+
+8. A photo of a person carrying a banana: 
+   - Description: The image shows a person holding a banana, possibly in a casual or on-the-go setting. Attributes include the person's posture, the banana in hand, and any visible details.
+
+9. A photo of a person cutting a banana: 
+   - Description: This image features a person slicing or cutting a banana, preparing it for consumption. Common elements include cutting tools, the person's hands, and the banana being prepared.
+
+10. A photo of a person eating a banana: 
+    - Description: The common scenario captures a person enjoying a bite or eating a banana. Key elements include the person's facial expression, the banana being consumed, and any visible signs of enjoyment.
+
+11. A photo of a person holding a banana: 
+    - Description: The photograph features a person holding a banana, showcasing the fruit in hand. Attributes include the person's posture, the type of banana, and any visible details.
+
+12. A photo of a person inspecting a banana: 
+    - Description: The scene shows a person closely examining a banana, possibly checking for ripeness or quality. Common elements include the person's hands, the banana, and any visible signs of inspection.
+
+13. A photo of a person peeling a banana: 
+    - Description: This image captures a person in the process of peeling a banana, revealing the fruit inside. Common elements include the peeling action, the person's hands, and the banana being prepared.
+
+14. A photo of a person picking a banana: 
+    - Description: The scene showcases a person harvesting or picking bananas, possibly from a tree or market display. Attributes include the person's actions, the bunch of bananas, and any relevant context.
+
+15. A photo of a person smelling a banana: 
+    - Description: The image captures a person smelling a banana, possibly checking for freshness. Common elements include the person's gesture, the banana, and any visible signs of olfactory inspection.
+
+16. A photo of a person and a banana: 
+    - Description: This general scene features a person and a banana coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+17. A photo of a person breaking a baseball bat: 
+    - Description: This dynamic image features a person breaking a baseball bat, possibly as a display of strength or during a sporting event. Attributes include the person's actions, the broken bat, and any relevant context.
+
+18. A photo of a person carrying a baseball bat: 
+    - Description: The image captures a person holding or carrying a baseball bat. Common elements include the person's posture, the baseball bat, and any visible signs of sports equipment.
+
+19. A photo of a person holding a baseball bat: 
+    - Description: The photograph features a person holding a baseball bat, showcasing the equipment's design or features. Attributes include the person's posture, the baseball bat's details, and any visible items being held.
+
+20. A photo of a person signing a baseball bat: 
+    - Description: This scene shows a person autographing or signing a baseball bat, possibly for a fan or as part of a special event. Common elements include the person's gesture, the baseball bat, and any visible signs of the autograph.
+
+21. A photo of a person swinging a baseball bat: 
+    - Description: The dynamic scene captures a person in the motion of swinging a baseball bat, possibly during a game or practice. Attributes include the person's posture, the swinging action, and any relevant sports context.
+
+22. A photo of a person throwing a baseball bat: 
+    - Description: This action shot features a person tossing or throwing a baseball bat, possibly after a play or as part of a performance. Attributes include the person's actions, the flying bat, and any visible expressions.
+
+23. A photo of a person wielding a baseball bat: 
+    - Description: The image showcases a person holding a baseball bat in a poised or ready position, possibly indicating preparation for a game or competition. Common elements include the person's posture, the bat's position, and any relevant sports context.
+
+24. A photo of a person and a baseball bat: 
+    - Description: This general scene features a person and a baseball bat coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+25. A photo of a person holding a baseball glove: 
+    - Description: The photograph features a person holding a baseball glove, showcasing the equipment's design or features. Attributes include the person's posture, the baseball glove's details, and any visible items being held.
+
+26. A photo of a person wearing a baseball glove: 
+    - Description: This common scenario captures a person with a baseball glove worn on their hand, possibly during a game or practice. Key elements include the person's posture, the glove's position, and any relevant sports context.
+
+27. A photo of a person and a baseball glove: 
+    - Description: This general scene features a person and a baseball glove coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+28. A photo of a person feeding a bear: 
+    - Description: The image captures a person providing food to a bear, possibly in a controlled environment such as a wildlife park. Attributes include the person's gesture, the bear's response, and any relevant safety measures.
+
+29. A photo of a person hunting a bear: 
+    - Description: This potentially sensitive image may depict a person engaged in hunting a bear. It is important to approach such imagery with caution due to ethical and conservation considerations.
+
+30. A photo of a person watching a bear: 
+    - Description: The scene features a person observing a bear, possibly in a natural habitat or wildlife setting. Common elements include the person's posture, the bear's behavior, and any relevant context.
+
+31. A photo of a person and a bear: 
+    - Description: This general scene features a person and a bear coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the proximity between humans and wildlife.
+
+32. A photo of a person cleaning a bed: 
+    - Description: The image captures a person engaged in the process of cleaning or tidying a bed. Common elements include cleaning tools, the person's actions, and the bed's appearance.
+
+33. A photo of a person lying on a bed: 
+    - Description: The scene features a person in a reclined position on a bed. Key elements include the person's posture, the bed's details, and any visible signs of relaxation.
+
+34. A photo of a person sitting on a bed: 
+    - Description: This common scenario captures a person seated on a bed. Attributes include the person's posture, the bed's appearance, and any visible items in the surroundings.
+
+35. A photo of a person and a bed: 
+    - Description: This general scene features a person and a bed coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+36. A photo of a person inspecting a bench: 
+    - Description: The scene shows a person closely examining a bench, possibly checking for stability or design details. Common elements include the person's hands, the bench, and any visible signs of inspection.
+
+37. A photo of a person lying on a bench: 
+    - Description: The image features a person in a reclined position on a bench. Key elements include the person's posture, the bench's details, and any visible signs of relaxation.
+
+38. A photo of a person sitting on a bench: 
+    - Description: This common scenario captures a person seated on a bench. Attributes include the person's posture, the bench's appearance, and any visible items in the surroundings.
+
+39. A photo of a person and a bench: 
+    - Description: This general scene features a person and a bench coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+1. A photo of a person carrying a book: 
+   - Description: The image captures a person holding and carrying a book, suggesting portability or movement. Attributes include the person's posture, the book's cover, and any visible signs of engagement.
+
+2. A photo of a person holding a book: 
+   - Description: The photograph features a person holding a book, showcasing the cover or pages. Attributes include the person's posture, the book's details, and any visible signs of reading or examination.
+
+3. A photo of a person opening a book: 
+   - Description: This scene shows a person in the act of opening a book, revealing its contents. Attributes include the person's hands, the book's pages, and any visible signs of curiosity or exploration.
+
+4. A photo of a person reading a book: 
+   - Description: The common scenario captures a person engrossed in reading a book. Key elements include the person's posture, the book's position, and any visible signs of concentration.
+
+5. A photo of a person and a book: 
+   - Description: This general scene features a person and a book coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+6. A photo of a person holding a bowl: 
+   - Description: The image showcases a person holding a bowl, possibly filled with food or ingredients. Attributes include the person's posture, the bowl's contents, and any visible signs of preparation.
+
+7. A photo of a person stirring a bowl: 
+   - Description: This scene captures a person actively stirring the contents of a bowl, suggesting cooking or food preparation. Attributes include the person's actions, the bowl, and any visible ingredients.
+
+8. A photo of a person washing a bowl: 
+   - Description: The image shows a person engaged in the process of washing a bowl, possibly as part of kitchen cleanup. Common elements include cleaning tools, the person's actions, and the bowl's cleanliness.
+
+9. A photo of a person licking a bowl: 
+   - Description: This playful or indulgent scene features a person licking the contents of a bowl, possibly after baking or enjoying a treat. Attributes include the person's expression, the licked bowl, and any visible signs of enjoyment.
+
+10. A photo of a person and a bowl: 
+    - Description: This general scene features a person and a bowl coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+11. A photo of a person cutting a broccoli: 
+    - Description: The scene captures a person in the process of cutting or chopping broccoli, possibly for cooking. Attributes include cutting tools, the person's hands, and the broccoli being prepared.
+
+12. A photo of a person eating a broccoli: 
+    - Description: This image features a person enjoying a bite or eating broccoli. Key elements include the person's facial expression, the broccoli being consumed, and any visible signs of enjoyment.
+
+13. A photo of a person holding a broccoli: 
+    - Description: The photograph showcases a person holding a head of broccoli, possibly before cooking or as part of a meal preparation. Attributes include the person's posture, the broccoli, and any visible details.
+
+14. A photo of a person smelling a broccoli: 
+    - Description: The scene shows a person closely smelling a broccoli, possibly checking for freshness or aroma. Common elements include the person's gesture, the broccoli, and any visible signs of inspection.
+
+15. A photo of a person stirring a broccoli: 
+    - Description: This scene captures a person stirring or cooking broccoli in a dish. Attributes include the person's actions, the cooking utensils, and the broccoli being prepared.
+
+16. A photo of a person washing a broccoli: 
+    - Description: The image shows a person engaged in the process of washing broccoli, possibly as part of food preparation. Common elements include cleaning tools, the person's actions, and the broccoli's cleanliness.
+
+17. A photo of a person and a broccoli: 
+    - Description: This general scene features a person and a head of broccoli coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+18. A photo of a person blowing a cake: 
+    - Description: This celebratory scene captures a person blowing out candles on a cake, possibly during a birthday or special occasion. Attributes include the person's actions, the cake, and any visible signs of celebration.
+
+19. A photo of a person carrying a cake: 
+    - Description: The image showcases a person carrying a cake, possibly as a gift or for a special event. Attributes include the person's posture, the cake's design, and any visible signs of celebration.
+
+20. A photo of a person cutting a cake: 
+    - Description: This celebratory scene captures a person cutting a cake, possibly during a party or gathering. Attributes include the person's actions, the cake's details, and any visible signs of celebration.
+
+21. A photo of a person eating a cake: 
+    - Description: The image features a person enjoying a bite or eating a piece of cake. Key elements include the person's facial expression, the cake being consumed, and any visible signs of enjoyment.
+
+22. A photo of a person holding a cake: 
+    - Description: The photograph showcases a person holding a cake, possibly as part of a celebration or special occasion. Attributes include the person's posture, the cake's design, and any visible signs of celebration.
+
+23. A photo of a person lighting a cake: 
+    - Description: This scene captures a person lighting candles on a cake, possibly before a birthday celebration. Attributes include the person's actions, the cake, and any visible signs of preparation.
+
+24. A photo of a person making a cake: 
+    - Description: The image shows a person actively involved in the process of making a cake, possibly in a kitchen setting. Attributes include cooking utensils, ingredients, and the person's actions.
+
+25. A photo of a person picking up a cake: 
+    - Description: The image showcases a person picking up a cake, possibly from a bakery or as part of a celebration preparation. Attributes include the person's posture, the cake's design, and any visible signs of celebration.
+
+26. A photo of a person and a cake: 
+    - Description: This general scene features a person and a cake coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+27. A photo of a person carrying a carrot: 
+    - Description: The image shows a person holding a carrot, possibly showcasing fresh produce or ingredients. Attributes include the person's posture, the carrot, and any visible signs of cooking or meal preparation.
+
+28. A photo of a person cooking a carrot: 
+    - Description: This scene captures a person cooking or preparing carrots in a dish. Attributes include cooking utensils, the person's actions, and the carrots being cooked.
+
+29. A photo of a person cutting a carrot: 
+    - Description: The image features a person in the process of cutting or chopping a carrot, possibly for cooking or salad preparation. Attributes include cutting tools, the person's hands, and the carrot being prepared.
+
+30. A photo of a person eating a carrot: 
+    - Description: This image captures a person enjoying a bite or eating a carrot. Key elements include the person's facial expression, the carrot being consumed, and any visible signs of healthy eating.
+
+31. A photo of a person holding a carrot: 
+    - Description: The photograph showcases a person holding a carrot, possibly before cooking or as part of a meal preparation. Attributes include the person's posture, the carrot, and any visible details.
+
+32. A photo of a person peeling a carrot: 
+    - Description: This scene shows a person peeling a carrot, revealing its fresh and clean appearance. Common elements include the person's hands, the peeling action, and the carrot's condition.
+
+33. A photo of a person smelling a carrot: 
+    - Description: The image captures a person smelling a carrot, possibly checking for freshness or aroma. Common elements include the person's gesture, the carrot, and any visible signs of inspection.
+
+34. A photo of a person stirring a carrot: 
+    - Description: This scene features a person stirring or cooking carrots in a dish. Attributes include the person's actions, the cooking utensils, and the carrots being prepared.
+
+35. A photo of a person washing a carrot: 
+    - Description: The photograph shows a person engaged in the process of washing a carrot, possibly as part of food preparation. Common elements include cleaning tools, the person's actions, and the carrot's cleanliness.
+
+36. A photo of a person and a carrot: 
+    - Description: This general scene features a person and a carrot coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+37. A photo of a person carrying a cell phone: 
+    - Description: The image captures a person carrying a cell phone, possibly in a casual or on-the-go setting. Attributes include the person's posture, the type of cell phone, and any visible signs of communication.
+
+38. A photo of a person holding a cell phone: 
+    - Description: The photograph features a person holding a cell phone, showcasing the device. Attributes include the person's posture, the cell phone's details, and any visible signs of interaction.
+
+39. A photo of a person reading a cell phone: 
+    - Description: This common scenario captures a person reading or viewing content on a cell phone. Key elements include the person's posture, the cell phone's position, and any visible signs of engagement.
+
+40. A photo of a person repairing a cell phone: 
+    - Description: The scene shows a person actively repairing or fixing a cell phone, possibly with tools or equipment. Common elements include the person's actions, the cell phone, and any visible signs of repair.
+
+41. A photo of a person talking on a cell phone: 
+    - Description: This image captures a person engaged in a phone conversation, holding a cell phone to their ear. Attributes include the person's posture, the phone call context, and any visible signs of communication.
+
+42. A photo of a person texting on a cell phone: 
+    - Description: The photograph features a person actively texting or typing on a cell phone. Attributes include the person's actions, the cell phone's display, and any visible signs of communication.
+
+43. A photo of a person and a cell phone: 
+    - Description: This general scene features a person and a cell phone coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements.
+
+1. A photo of a person checking a clock: 
+   - Description: The image captures a person checking the time on a clock, suggesting time awareness or time management. Attributes include the person's gesture, the clock's details, and any visible signs of urgency or consideration.
+
+2. A photo of a person holding a clock: 
+   - Description: This photograph features a person holding a clock, possibly emphasizing the concept of time in a symbolic or literal sense. Attributes include the person's posture, the clock's details, and any visible signs of importance.
+
+3. A photo of a person repairing a clock: 
+   - Description: The scene shows a person actively engaged in repairing a clock, possibly using tools or equipment. Common elements include the person's actions, the clock's components, and any visible signs of repair.
+
+4. A photo of a person setting a clock: 
+   - Description: This scenario captures a person adjusting or setting the time on a clock, suggesting synchronization or timekeeping. Attributes include the person's actions, the clock's details, and any visible signs of precision.
+
+5. A photo of a person and a clock: 
+   - Description: This general scene features a person and a clock coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly symbolizing the passage of time.
+
+6. A photo of a person carrying a cup: 
+   - Description: The image showcases a person carrying a cup, possibly filled with a beverage. Attributes include the person's posture, the cup's contents, and any visible signs of portability.
+
+7. A photo of a person drinking with a cup: 
+   - Description: This common scenario captures a person in the act of drinking from a cup. Key elements include the person's gesture, the cup's position, and any visible signs of satisfaction.
+
+8. A photo of a person holding a cup: 
+   - Description: The photograph features a person holding a cup, possibly showcasing the cup's design or contents. Attributes include the person's posture, the cup's details, and any visible signs of engagement.
+
+9. A photo of a person inspecting a cup: 
+   - Description: This scene shows a person closely inspecting a cup, possibly checking for cleanliness or details. Common elements include the person's gesture, the cup, and any visible signs of inspection.
+
+10. A photo of a person pouring a cup: 
+    - Description: The image captures a person in the process of pouring a beverage into a cup. Attributes include the person's actions, the pouring movement, and the cup's position.
+
+11. A photo of a person sipping a cup: 
+    - Description: This scenario features a person sipping from a cup, suggesting a moment of relaxation or enjoyment. Key elements include the person's facial expression, the cup's position, and any visible signs of pleasure.
+
+12. A photo of a person smelling a cup: 
+    - Description: The scene shows a person smelling the contents of a cup, possibly checking for aroma or freshness. Common elements include the person's gesture, the cup, and any visible signs of inspection.
+
+13. A photo of a person filling a cup: 
+    - Description: This image captures a person filling a cup with a beverage, showcasing the pouring process. Attributes include the person's actions, the cup's filling, and any visible details of the liquid.
+
+14. A photo of a person washing a cup: 
+    - Description: The photograph shows a person engaged in the process of washing a cup, possibly as part of kitchen cleanup. Common elements include cleaning tools, the person's actions, and the cup's cleanliness.
+
+15. A photo of a person and a cup: 
+    - Description: This general scene features a person and a cup coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a casual or everyday setting.
+
+16. A photo of a person buying a donut: 
+    - Description: The image captures a person in the process of purchasing a donut, possibly from a bakery or food vendor. Attributes include the person's posture, the donut display, and any visible signs of transaction.
+
+17. A photo of a person carrying a donut: 
+    - Description: The photograph showcases a person carrying a donut, possibly as a snack or treat. Attributes include the person's posture, the donut's details, and any visible signs of enjoyment.
+
+18. A photo of a person eating a donut: 
+    - Description: This image features a person enjoying a bite or eating a donut. Key elements include the person's facial expression, the donut being consumed, and any visible signs of pleasure.
+
+19. A photo of a person holding a donut: 
+    - Description: The scene captures a person holding a donut, possibly showcasing the treat's appearance. Attributes include the person's posture, the donut's details, and any visible signs of anticipation.
+
+20. A photo of a person making a donut: 
+    - Description: This scene shows a person actively involved in the process of making a donut, possibly in a kitchen setting. Attributes include cooking utensils, ingredients, and the person's actions.
+
+21. A photo of a person picking up a donut: 
+    - Description: The image showcases a person picking up a donut, possibly from a display or serving area. Attributes include the person's posture, the donut's appearance, and any visible signs of selection.
+
+22. A photo of a person smelling a donut: 
+    - Description: This scene captures a person closely smelling a donut, possibly checking for aroma or freshness. Common elements include the person's gesture, the donut, and any visible signs of inspection.
+
+23. A photo of a person and a donut: 
+    - Description: This general scene features a person and a donut coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a casual or social setting.
+
+24. A photo of a person feeding an elephant: 
+    - Description: The image captures a person feeding an elephant, possibly in a controlled environment such as a zoo. Attributes include the person's gesture, the elephant's position, and any visible signs of interaction.
+
+25. A photo of a person holding an elephant: 
+    - Description: This photograph features a person holding a small figurine or representation of an elephant. Attributes include the person's posture, the elephant object, and any visible signs of symbolism.
+
+26. A photo of a person hosing an elephant: 
+    - Description: The scene shows a person using a hose to spray water on an elephant, possibly for cooling or bathing. Common elements include the person's actions, the hose, and the elephant's response.
+
+27. A photo of a person hugging an elephant: 
+    - Description: This heartwarming image captures a person embracing or hugging an elephant, suggesting a close bond or affection. Key elements include the person's posture, the elephant's response, and any visible signs of connection.
+
+28. A photo of a person kissing an elephant: 
+    - Description: The scene features a person kissing an elephant, possibly expressing love or admiration. Attributes include the person's gesture, the elephant's response, and any visible signs of affection.
+
+29. A photo of a person hopping on an elephant: 
+    - Description: This playful image captures a person hopping or sitting on an elephant, suggesting a lighthearted interaction. Key elements include the person's posture, the elephant's response, and any visible signs of joy.
+
+30. A photo of a person petting an elephant: 
+    - Description: The photograph showcases a person gently petting an elephant, emphasizing a tender moment of connection. Attributes include the person's hand gestures, the elephant's response, and any visible signs of trust.
+
+31. A photo of a person riding an elephant: 
+    - Description: This image features a person riding on the back of an elephant, possibly in a recreational or touristic setting. Key elements include the person's posture, the elephant's response, and any visible signs of adventure.
+
+32. A photo of a person walking an elephant: 
+    - Description: The scene captures a person walking alongside an elephant, possibly in a controlled environment. Attributes include the person's posture, the elephant's movement, and any visible signs of guidance.
+
+33. A photo of a person washing an elephant: 
+    - Description: This image shows a person actively involved in washing or cleaning an elephant, possibly for hygiene or care. Attributes include the person's actions, washing tools, and the elephant's response.
+
+34. A photo of a person watching an elephant: 
+    - Description: The photograph features a person observing or watching an elephant, possibly in a zoo or wildlife setting. Key elements include the person's gaze, the elephant's behavior, and any visible signs of contemplation.
+
+35. A photo of a person and an elephant: 
+    - Description: This general scene features a person and an elephant coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a natural or curated environment.
+
+A photo of a person hugging a fire hydrant:
+Description: The image captures a whimsical moment where a person is humorously hugging a fire hydrant. Attributes include the person's gesture, the fire hydrant's details, and any visible signs of playfulness.
+
+A photo of a person inspecting a fire hydrant:
+Description: This scene shows a person closely examining or inspecting a fire hydrant, possibly for maintenance or curiosity. Common elements include the person's posture, the fire hydrant's details, and any visible signs of inspection.
+
+A photo of a person opening a fire hydrant:
+Description: The photograph features a person in the act of opening a fire hydrant, possibly for recreational use or emergency situations. Attributes include the person's actions, the hydrant's details, and any visible signs of water flow.
+
+A photo of a person painting a fire hydrant:
+Description: This scenario captures a person engaged in painting a fire hydrant, possibly for artistic expression or community beautification. Key elements include the person's actions, painting tools, and the hydrant's appearance.
+
+A photo of a person and a fire hydrant:
+Description: This general scene features a person and a fire hydrant coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in an urban setting.
+
+A photo of a person holding a fork:
+Description: The image showcases a person holding a fork, possibly in a dining or kitchen setting. Attributes include the person's posture, the fork's details, and any visible signs of meal preparation.
+
+A photo of a person lifting a fork:
+Description: This photograph captures a person lifting a fork, possibly during a meal or as part of a gesture. Key elements include the person's actions, the fork's position, and any visible signs of engagement.
+
+A photo of a person sticking a fork:
+Description: The scene shows a person sticking a fork into food, possibly for serving or eating. Common elements include the person's gesture, the fork's position, and any visible signs of dining.
+
+A photo of a person licking a fork:
+Description: This playful image captures a person licking a fork, possibly as a lighthearted or humorous moment. Attributes include the person's expression, the fork's position, and any visible signs of spontaneity.
+
+A photo of a person washing a fork:
+Description: The photograph shows a person actively involved in washing a fork, possibly as part of kitchen cleanup. Common elements include cleaning tools, the person's actions, and the fork's cleanliness.
+
+A photo of a person and a fork:
+Description: This general scene features a person and a fork coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a dining or kitchen setting.
+
+A photo of a person blocking a frisbee:
+Description: The image captures a person in a dynamic pose, attempting to block or intercept a flying frisbee. Attributes include the person's posture, the frisbee's trajectory, and any visible signs of athleticism.
+
+A photo of a person catching a frisbee:
+Description: This action-packed scene features a person successfully catching a frisbee mid-air. Key elements include the person's agility, the frisbee's position, and any visible signs of coordination.
+
+A photo of a person holding a frisbee:
+Description: The photograph showcases a person holding a frisbee, possibly in a relaxed or pre-play moment. Attributes include the person's posture, the frisbee's details, and any visible signs of anticipation.
+
+A photo of a person spinning a frisbee:
+Description: This scenario captures a person spinning a frisbee on their finger, showcasing skill and control. Key elements include the person's actions, the frisbee's rotation, and any visible signs of playfulness.
+
+A photo of a person throwing a frisbee:
+Description: The image features a person in the act of throwing a frisbee, possibly engaged in a game or recreational activity. Attributes include the person's throwing motion, the frisbee's trajectory, and any visible signs of participation.
+
+A photo of a person and a frisbee:
+Description: This general scene features a person and a frisbee coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a recreational setting.
+
+A photo of a person feeding a giraffe:
+Description: The image captures a person feeding a giraffe, possibly in a controlled environment like a zoo. Attributes include the person's gesture, the giraffe's response, and any visible signs of interaction.
+
+A photo of a person kissing a giraffe:
+Description: This charming image features a person kissing a giraffe, suggesting a whimsical or affectionate interaction. Key elements include the person's posture, the giraffe's response, and any visible signs of connection.
+
+A photo of a person petting a giraffe:
+Description: The photograph showcases a person gently petting a giraffe, emphasizing a tender moment of connection. Attributes include the person's hand gestures, the giraffe's response, and any visible signs of trust.
+
+A photo of a person riding a giraffe:
+Description: This playful image captures a person riding on the back of a giraffe, suggesting a lighthearted and imaginative scenario. Key elements include the person's posture, the giraffe's response, and any visible signs of joy.
+
+A photo of a person watching a giraffe:
+Description: The scene features a person observing or watching a giraffe, possibly in a zoo or wildlife setting. Key elements include the person's gaze, the giraffe's behavior, and any visible signs of contemplation.
+
+A photo of a person and a giraffe:
+Description: This general scene features a person and a giraffe coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a zoo or natural environment.
+
+A photo of a person holding a hair dryer:
+Description: The image showcases a person holding a hair dryer, possibly in a grooming or styling context. Attributes include the person's posture, the hair dryer's details, and any visible signs of personal care.
+
+A photo of a person operating a hair dryer:
+Description: This scenario captures a person actively using a hair dryer, possibly in the process of drying or styling hair. Key elements include the person's actions, the hair dryer in operation, and any visible signs of grooming.
+
+A photo of a person repairing a hair dryer:
+Description: The photograph features a person engaged in repairing a hair dryer, showcasing technical skills or DIY efforts. Attributes include repair tools, the person's actions, and any visible signs of maintenance.
+
+A photo of a person and a hair dryer:
+Description: This general scene features a person and a hair dryer coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a bathroom or grooming area.
+
+A photo of a person carrying a handbag:
+Description: The image showcases a person carrying a handbag, emphasizing style or functionality. Attributes include the person's posture, the handbag's design, and any visible signs of fashion.
+
+A photo of a person holding a handbag:
+Description: This photograph captures a person holding a handbag, possibly in a casual or posed manner. Key elements include the person's posture, the handbag's details, and any visible signs of accessorizing.
+
+A photo of a person inspecting a handbag:
+Description: The scene shows a person closely inspecting or examining a handbag, possibly during shopping or for appraisal. Common elements include the person's posture, the handbag's features, and any visible signs of scrutiny.
+
+A photo of a person and a handbag:
+Description: This general scene features a person and a handbag coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a fashion or retail setting.
+
+A photo of a person carrying a hot dog:
+Description: The image showcases a person holding a hot dog, possibly in a street food or casual dining setting. Attributes include the person's posture, the hot dog's details, and any visible signs of enjoying a meal.
+
+A photo of a person cooking a hot dog:
+Description: This scene captures a person in the process of cooking a hot dog, possibly on a grill or stove. Key elements include cooking utensils, the person's actions, and any visible signs of food preparation.
+
+A photo of a person cutting a hot dog:
+Description: The photograph features a person cutting a hot dog, possibly for sharing or portion control. Attributes include the person's gesture, cutting tools, and any visible signs of meal preparation.
+
+A photo of a person eating a hot dog:
+Description: This candid image captures a person enjoying a hot dog, possibly during a meal or snack. Key elements include the person's posture, the hot dog in hand, and any visible signs of satisfaction.
+
+A photo of a person holding a hot dog:
+Description: The scene showcases a person holding a hot dog, possibly in a relaxed or casual setting. Attributes include the person's posture, the hot dog's details, and any visible signs of casual dining.
+
+A photo of a person making a hot dog:
+Description: This scenario features a person in the process of assembling or preparing a hot dog, showcasing culinary activities. Key elements include ingredients, the person's actions, and any visible signs of cooking.
+
+A photo of a person and a hot dog:
+Description: This general scene features a person and a hot dog coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a food-related context.
+
+A photo of a person carrying a keyboard:
+Description: The image showcases a person carrying a keyboard, possibly in a musical or tech-related context. Attributes include the person's posture, the keyboard's details, and any visible signs of musical engagement.
+
+A photo of a person cleaning a keyboard:
+Description: This scene captures a person cleaning a keyboard, possibly for maintenance or hygiene. Key elements include cleaning tools, the person's actions, and any visible signs of care for electronic devices.
+
+A photo of a person holding a keyboard:
+Description: The photograph features a person holding a keyboard, possibly in a musical or work-related setting. Attributes include the person's posture, the keyboard's details, and any visible signs of engagement.
+
+A photo of a person typing on a keyboard:
+Description: This scenario captures a person actively typing on a keyboard, possibly engaged in work or communication. Common elements include the person's actions, the keyboard in use, and any visible signs of productivity.
+
+A photo of a person and a keyboard:
+Description: This general scene features a person and a keyboard coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in a work or creative environment.
+
+A photo of a person assembling a kite:
+Description: The image showcases a person in the process of assembling a kite, possibly for recreational purposes. Attributes include kite components, the person's actions, and any visible signs of preparation.
+
+A photo of a person carrying a kite:
+Description: This scene features a person carrying a kite, possibly on the way to a flying location. Key elements include the person's posture, the kite's design, and any visible signs of anticipation.
+
+A photo of a person flying a kite:
+Description: The photograph captures a person actively flying a kite, enjoying a recreational outdoor activity. Attributes include the person's posture, the kite in flight, and any visible signs of enjoyment.
+
+A photo of a person holding a kite:
+Description: This image showcases a person holding a kite, possibly in a pre-flight moment. Key elements include the person's posture, the kite's details, and any visible signs of excitement.
+
+A photo of a person inspecting a kite:
+Description: The scene shows a person closely inspecting or examining a kite, possibly for quality or readiness. Common elements include the person's posture, the kite's features, and any visible signs of scrutiny.
+
+A photo of a person launching a kite:
+Description: This dynamic image features a person in the act of launching a kite, initiating the flight. Attributes include the person's actions, the kite's ascent, and any visible signs of outdoor play.
+
+A photo of a person pulling a kite:
+Description: The photograph captures a person actively pulling a kite's string, maintaining control during flight. Key elements include the person's posture, the kite's position, and any visible signs of skill.
+
+A photo of a person and a kite:
+Description: This general scene features a person and a kite coexisting in the same frame without any specific interaction. It could be a scenario emphasizing the presence of both elements, possibly in an outdoor setting.
+
+1. Person Cutting with a Knife: 
+   - Attributes: A person actively using a knife to cut through something. The focus may be on the cutting action, with the person's hands and the knife in motion.
+
+2. Person Holding a Knife: 
+   - Attributes: A person holding a knife, possibly in a neutral or non-threatening posture. The emphasis is on the act of holding the knife rather than a specific action.
+
+3. Person Sticking a Knife: 
+   - Attributes: A person inserting or sticking a knife into something. This could be a close-up shot highlighting the penetration of the knife into an object.
+
+4. Person Washing a Knife: 
+   - Attributes: A person engaged in the act of cleaning a knife. This might involve water, soap, and a cleaning motion, emphasizing hygiene.
+
+5. Person Wielding a Knife: 
+   - Attributes: A person holding a knife in a way that suggests a potential threat or aggressive posture. The emphasis is on the potentially dangerous nature of the scene.
+
+6. Person Licking a Knife: 
+   - Attributes: Unusual or risky behavior, where a person is licking a knife. The focus is on the unconventional or potentially unsafe action.
+
+7. Person and a Knife: 
+   - Attributes: A general depiction of a person with a knife, without a specific action. The scene might capture a person casually holding a knife or having it nearby.
+
+8. Person Holding a Laptop: 
+   - Attributes: A person carrying or holding a laptop, possibly in a neutral stance. The emphasis is on the act of holding the laptop.
+
+9. Person Opening a Laptop: 
+   - Attributes: A person in the process of opening a laptop, capturing the unfolding action. The focus may be on the hands and the laptop lid.
+
+10. Person Reading a Laptop: 
+    - Attributes: A person engaged in reading content on a laptop screen. This might depict someone focused on the screen with a static or thoughtful pose.
+
+11. Person Repairing a Laptop: 
+    - Attributes: A person actively involved in fixing or repairing a laptop. The scene may include tools, disassembled parts, and a concentration on the repair task.
+
+12. Person Typing on a Laptop: 
+    - Attributes: A person using the keyboard of a laptop. The focus is on the typing action, capturing the movement of fingers on the keyboard.
+
+13. Person and a Laptop: 
+    - Attributes: A general scene showing a person with a laptop, without a specific action. This could be a person sitting with a laptop open, suggesting various activities.
+
+14. Person Cleaning a Microwave: 
+    - Attributes: A person involved in the cleaning process of a microwave. This might include the use of cleaning agents, sponges, or towels.
+
+15. Person Opening a Microwave: 
+    - Attributes: A person in the act of opening a microwave. The focus could be on the hands and the microwave door, capturing the anticipation of retrieving or placing something inside.
+
+16. Person Operating a Microwave: 
+    - Attributes: A person using the microwave, possibly setting the timer or adjusting settings. The emphasis is on the interaction with the microwave controls.
+
+17. Person and a Microwave: 
+    - Attributes: A general scene depicting a person with a microwave, without a specific action. This could be a person standing near a microwave, suggesting various activities.
+
+18. Person Controlling a Mouse: 
+    - Attributes: A person using a computer mouse, suggesting control or navigation. The focus may be on the hand movement and the mouse.
+
+19. Person Holding a Mouse: 
+    - Attributes: A person holding a computer mouse, possibly in a non-operational state. The emphasis is on the act of holding the mouse.
+
+20. Person Repairing a Mouse: 
+    - Attributes: A person engaged in fixing or repairing a computer mouse. The scene may include tools, disassembled parts, and a concentration on the repair task.
+
+21. Person and a Mouse: 
+    - Attributes: A general scene showing a person with a computer mouse, without a specific action. This could be a person sitting with a mouse nearby, suggesting various computer-related activities.
+
+22. Person Buying an Orange: 
+    - Attributes: A person in a shopping environment, possibly holding an orange in the process of making a purchase.
+
+23. Person Cutting an Orange: 
+    - Attributes: A person using a knife or hands to cut an orange. The focus is on the cutting action and the orange itself.
+
+24. Person Eating an Orange: 
+    - Attributes: A person in the act of consuming an orange, possibly with peeled segments in hand or in the mouth.
+
+25. Person Holding an Orange: 
+    - Attributes: A person simply holding an orange, without a specific action. The emphasis is on the person's interaction with the fruit.
+
+26. Person Inspecting an Orange: 
+    - Attributes: A person examining an orange, possibly checking for ripeness or quality. The focus may be on the close inspection of the fruit.
+
+27. Person Peeling an Orange: 
+    - Attributes: A person removing the peel from an orange, showcasing the peeling action and the exposed fruit.
+
+28. Person Picking an Orange: 
+    - Attributes: A person harvesting or selecting an orange, possibly from a tree or a display. The emphasis is on the picking action.
+
+29. Person Squeezing an Orange: 
+    - Attributes: A person extracting juice from an orange, emphasizing the squeezing action and possibly a container to collect the juice.
+
+30. Person Washing an Orange: 
+    - Attributes: A person cleaning or rinsing an orange, possibly under running water. The focus is on the hygiene aspect before consumption.
+
+31. Person and an Orange: 
+    - Attributes: A general scene showing a person with an orange, without a specific action. This could be a person holding or sitting with an orange, suggesting various activities.
+
+1. Person Cleaning an Oven: 
+   - Attributes: A person actively involved in the cleaning process of an oven. This may include the use of cleaning agents, scrubbing, and reaching various parts of the oven.
+
+2. Person Holding an Oven: 
+   - Attributes: A person carrying or holding an oven, possibly in a neutral stance. The emphasis is on the act of holding the oven.
+
+3. Person Inspecting an Oven: 
+   - Attributes: A person examining or inspecting an oven, possibly checking for cleanliness, functionality, or any issues. The focus may be on the details of the inspection.
+
+4. Person Opening an Oven: 
+   - Attributes: A person in the act of opening an oven, possibly to check on food, insert something, or perform other cooking-related tasks. The focus could be on the hands and the oven door.
+
+5. Person Repairing an Oven: 
+   - Attributes: A person engaged in fixing or repairing an oven. The scene may include tools, opened parts of the oven, and a concentration on the repair task.
+
+6. Person Operating an Oven: 
+   - Attributes: A person using the controls of an oven, setting temperatures, timers, or other settings. The emphasis is on the interaction with the oven's operational features.
+
+7. Person and an Oven: 
+   - Attributes: A general scene depicting a person with an oven, without a specific action. This could be a person standing near an oven, suggesting various cooking-related activities.
+
+8. Person Checking a Parking Meter: 
+   - Attributes: A person examining or checking a parking meter, possibly looking at the display or inserting coins. The focus may be on the interaction with the parking meter.
+
+9. Person Paying a Parking Meter: 
+   - Attributes: A person in the act of paying for parking, possibly inserting coins, using a card, or a mobile payment method. The focus is on the payment action.
+
+10. Person Repairing a Parking Meter: 
+    - Attributes: A person engaged in fixing or repairing a parking meter. The scene may include tools, opened parts of the meter, and a concentration on the repair task.
+
+11. Person and a Parking Meter: 
+    - Attributes: A general scene showing a person near a parking meter, without a specific action. This could be a person standing by or walking past a parking meter.
+
+12. Person Buying a Pizza: 
+    - Attributes: A person in a pizzeria or a store, possibly holding a pizza box or waiting for a freshly made pizza. The focus is on the buying process.
+
+13. Person Carrying a Pizza: 
+    - Attributes: A person holding and carrying a pizza box, possibly on the way home or to a destination. The emphasis is on the act of carrying the pizza.
+
+14. Person Cooking a Pizza: 
+    - Attributes: A person involved in the cooking process of a pizza, possibly placing it in the oven or checking its readiness. The focus is on the cooking action.
+
+15. Person Cutting a Pizza: 
+    - Attributes: A person using a pizza cutter or knife to slice a pizza. The focus is on the cutting action and the pizza itself.
+
+16. Person Eating a Pizza: 
+    - Attributes: A person in the act of enjoying a slice or a whole pizza. The emphasis is on the eating action and the person's expression.
+
+17. Person Holding a Pizza: 
+    - Attributes: A person simply holding a pizza, without a specific action. The emphasis is on the person's interaction with the food.
+
+18. Person Making a Pizza: 
+    - Attributes: A person involved in the pizza-making process, possibly preparing toppings or arranging them on the dough. The focus is on the creation of the pizza.
+
+19. Person Picking Up a Pizza: 
+    - Attributes: A person collecting a pizza order from a counter or delivery person. The emphasis is on the pick-up action.
+
+20. Person Sliding a Pizza: 
+    - Attributes: A person using a pizza peel to slide a pizza in or out of an oven. The focus is on the sliding action and the pizza.
+
+21. Person Smelling a Pizza: 
+    - Attributes: A person taking in the aroma of a freshly baked or delivered pizza. The focus is on the sensory experience of smelling the pizza.
+
+22. Person and a Pizza: 
+    - Attributes: A general scene showing a person with a pizza, without a specific action. This could be a person sitting with a pizza, suggesting various dining or social activities.
+
+23. Person Cleaning a Refrigerator: 
+    - Attributes: A person actively involved in the cleaning process of a refrigerator. This may include removing shelves, using cleaning agents, and organizing the contents.
+
+24. Person Holding a Refrigerator: 
+    - Attributes: A person carrying or holding a refrigerator, possibly in a neutral stance. The emphasis is on the act of holding the refrigerator.
+
+25. Person Moving a Refrigerator: 
+    - Attributes: A person in the process of moving a refrigerator, possibly for relocation or cleaning purposes. The focus is on the physical movement of the appliance.
+
+26. Person Opening a Refrigerator: 
+    - Attributes: A person in the act of opening a refrigerator, possibly to retrieve or store items. The focus could be on the hands and the refrigerator door.
+
+27. Person and a Refrigerator: 
+    - Attributes: A general scene depicting a person with a refrigerator, without a specific action. This could be a person standing near a refrigerator, suggesting various kitchen-related activities.   
+
+1. Person Holding a Remote: 
+   - Attributes: A person holding a remote control, possibly in a relaxed or neutral pose. The emphasis is on the act of holding the remote.
+
+2. Person Pointing a Remote: 
+   - Attributes: A person directing or pointing a remote control, possibly at a device or towards a specific area. The focus is on the pointing action.
+
+3. Person Swinging a Remote: 
+   - Attributes: A person swinging or waving a remote control, possibly in a playful or expressive manner. The focus is on the dynamic movement of the remote.
+
+4. Person and a Remote: 
+   - Attributes: A general scene depicting a person with a remote control, without a specific action. This could be a person sitting with a remote, suggesting various entertainment or control activities.
+
+5. Person Carrying a Sandwich: 
+   - Attributes: A person holding or carrying a sandwich, possibly in a takeaway container or wrapped in paper. The emphasis is on the act of carrying the sandwich.
+
+6. Person Cooking a Sandwich: 
+   - Attributes: A person involved in the cooking process of a sandwich, possibly using a stovetop, grill, or toaster. The focus is on the cooking action.
+
+7. Person Cutting a Sandwich: 
+   - Attributes: A person using a knife or other tool to cut a sandwich, emphasizing the cutting action and the sandwich itself.
+
+8. Person Eating a Sandwich: 
+   - Attributes: A person in the act of consuming a sandwich, possibly with a bite taken or in the process of enjoying the meal.
+
+9. Person Holding a Sandwich: 
+   - Attributes: A person simply holding a sandwich, without a specific action. The emphasis is on the person's interaction with the food.
+
+10. Person Making a Sandwich: 
+    - Attributes: A person assembling ingredients to create a sandwich, possibly with various toppings, spreads, and fillings. The focus is on the creation of the sandwich.
+
+11. Person and a Sandwich: 
+    - Attributes: A general scene showing a person with a sandwich, without a specific action. This could be a person sitting with a sandwich, suggesting various dining or snacking activities.
+
+12. Person Cutting with a Scissors: 
+    - Attributes: A person using scissors to cut through something, with the focus on the cutting action and the object being cut.
+
+13. Person Holding a Scissors: 
+    - Attributes: A person holding a pair of scissors, possibly in a neutral or non-threatening pose. The emphasis is on the act of holding the scissors.
+
+14. Person Opening a Scissors: 
+    - Attributes: A person in the act of opening a pair of scissors, with the focus on the hand movement and the scissors' blades.
+
+15. Person and a Scissors: 
+    - Attributes: A general scene depicting a person with a pair of scissors, without a specific action. This could be a person holding or sitting with scissors, suggesting various cutting or crafting activities.
+
+16. Person Cleaning a Sink: 
+    - Attributes: A person actively involved in the cleaning process of a sink, possibly using cleaning agents, sponges, and other cleaning tools.
+
+17. Person Repairing a Sink: 
+    - Attributes: A person engaged in fixing or repairing a sink. The scene may include tools, opened parts of the sink, and a concentration on the repair task.
+
+18. Person Washing a Sink: 
+    - Attributes: A person washing dishes or cleaning items in a sink, with the focus on the water and cleaning action.
+
+19. Person and a Sink: 
+    - Attributes: A general scene depicting a person near a sink, without a specific action. This could be a person standing by or using a sink, suggesting various kitchen or cleaning activities.
+
+20. Person Carrying a Skateboard: 
+    - Attributes: A person holding or carrying a skateboard, possibly in a neutral stance or on the way to a skateboarding location. The emphasis is on the act of carrying the skateboard.
+
+21. Person Flipping a Skateboard: 
+    - Attributes: A person performing a skateboard flip trick, capturing the dynamic movement of the skateboard in the air.
+
+22. Person Grinding a Skateboard: 
+    - Attributes: A person engaging in skateboard grinding, where the skateboard's trucks slide along a surface like a rail or ledge.
+
+23. Person Holding a Skateboard: 
+    - Attributes: A person simply holding a skateboard, without a specific action. The emphasis is on the person's interaction with the skateboard.
+
+24. Person Jumping a Skateboard: 
+    - Attributes: A person jumping on or over a skateboard, possibly as part of a trick or stunts. The focus is on the jumping action.
+
+25. Person Picking Up a Skateboard: 
+    - Attributes: A person picking up a skateboard, possibly after performing a trick or for transportation.
+
+26. Person Riding a Skateboard: 
+    - Attributes: A person actively skateboarding, with the focus on the riding action and the person's posture.
+
+27. Person Sitting on a Skateboard: 
+    - Attributes: A person sitting on a skateboard, possibly taking a break or engaging in a relaxed activity.
+
+28. Person Standing on a Skateboard: 
+    - Attributes: A person standing on a stationary skateboard, possibly posing or preparing for a ride.
+
+29. Person and a Skateboard: 
+    - Attributes: A general scene showing a person with a skateboard, without a specific action. This could be a person standing or sitting with a skateboard, suggesting various skateboarding or leisure activities.
+
+1. Person Adjusting Skis: 
+   - Attributes: A person making adjustments to ski bindings, poles, or other equipment. The focus may be on the hands adjusting the skis.
+
+2. Person Carrying Skis: 
+   - Attributes: A person holding or carrying skis, possibly in a neutral stance or on the way to a skiing location. The emphasis is on the act of carrying the skis.
+
+3. Person Holding Skis: 
+   - Attributes: A person holding skis, possibly in a pose showcasing the equipment. The emphasis is on the person's interaction with the skis.
+
+4. Person Inspecting Skis: 
+   - Attributes: A person closely examining or inspecting skis, possibly checking for damage, tuning, or other details. The focus may be on the details of the inspection.
+
+5. Person Jumping with Skis: 
+   - Attributes: A person in mid-air while skiing, capturing the dynamic movement of a jump. The focus is on the airborne action and the skis.
+
+6. Person Picking Up Skis: 
+   - Attributes: A person picking up skis, possibly after skiing or for transportation. The emphasis is on the lifting action.
+
+7. Person Repairing Skis: 
+   - Attributes: A person engaged in fixing or repairing skis. The scene may include tools, opened parts of the skis, and a concentration on the repair task.
+
+8. Person Riding Skis: 
+   - Attributes: A person actively skiing, with the focus on the skiing action and the person's posture.
+
+9. Person Standing on Skis: 
+   - Attributes: A person standing on skis, possibly posing or preparing for a ski run. The emphasis is on the stance and the skis.
+
+10. Person Wearing Skis: 
+    - Attributes: A person wearing skis and possibly other skiing gear. The focus is on the person fully equipped for skiing.
+
+11. Person and Skis: 
+    - Attributes: A general scene showing a person with skis, without a specific action. This could be a person standing with skis, suggesting various skiing or outdoor activities.
+
+12. Person Adjusting a Snowboard: 
+    - Attributes: A person making adjustments to snowboard bindings, stance, or other equipment. The focus may be on the hands adjusting the snowboard.
+
+13. Person Carrying a Snowboard: 
+    - Attributes: A person holding or carrying a snowboard, possibly in a neutral stance or on the way to a snowboarding location. The emphasis is on the act of carrying the snowboard.
+
+14. Person Grinding a Snowboard: 
+    - Attributes: A person engaged in snowboard grinding, where the snowboard's edge slides along a surface like a rail or ledge.
+
+15. Person Holding a Snowboard: 
+    - Attributes: A person simply holding a snowboard, possibly in a neutral or expressive pose. The emphasis is on the person's interaction with the snowboard.
+
+16. Person Jumping with a Snowboard: 
+    - Attributes: A person in mid-air while snowboarding, capturing the dynamic movement of a jump. The focus is on the airborne action and the snowboard.
+
+17. Person Riding a Snowboard: 
+    - Attributes: A person actively snowboarding, with the focus on the riding action and the person's posture.
+
+18. Person Standing on a Snowboard: 
+    - Attributes: A person standing on a snowboard, possibly posing or preparing for a snowboard run. The emphasis is on the stance and the snowboard.
+
+19. Person Wearing a Snowboard: 
+    - Attributes: A person wearing a snowboard and possibly other snowboarding gear. The focus is on the person fully equipped for snowboarding.
+
+20. Person and a Snowboard: 
+    - Attributes: A general scene showing a person with a snowboard, without a specific action. This could be a person standing with a snowboard, suggesting various snowboarding or outdoor activities.
+
+21. Person Holding a Spoon: 
+    - Attributes: A person holding a spoon, possibly in a neutral or expressive pose. The emphasis is on the act of holding the spoon.
+
+22. Person Licking a Spoon: 
+    - Attributes: A person licking or tasting food from a spoon. The focus may be on the person's expression and the spoon.
+
+23. Person Washing a Spoon: 
+    - Attributes: A person cleaning or rinsing a spoon, possibly under running water. The focus is on the hygiene aspect of cleaning the utensil.
+
+24. Person Sipping from a Spoon: 
+    - Attributes: A person sipping or tasting a liquid from a spoon. The focus is on the sipping action and the spoon.
+
+25. Person and a Spoon: 
+    - Attributes: A general scene depicting a person with a spoon, without a specific action. This could be a person sitting with a spoon, suggesting various dining or cooking activities.
+
+26. Person Blocking a Sports Ball: 
+    - Attributes: A person actively blocking or intercepting a sports ball, showcasing a defensive or competitive action.
+
+27. Person Carrying a Sports Ball: 
+    - Attributes: A person holding or carrying a sports ball, possibly in a neutral stance or on the way to a sports activity. The emphasis is on the act of carrying the ball.
+
+28. Person Catching a Sports Ball: 
+    - Attributes: A person catching a sports ball, capturing the moment of successful reception. The focus may be on the catching action and the ball.
+
+29. Person Dribbling a Sports Ball: 
+    - Attributes: A person dribbling a sports ball, showcasing control and coordination. The focus is on the dribbling action and the ball.
+
+30. Person Hitting a Sports Ball: 
+    - Attributes: A person using an implement to hit a sports ball, such as a racket or bat. The focus is on the striking action and the ball.
+
+31. Person Holding a Sports Ball: 
+    - Attributes: A person simply holding a sports ball, without a specific action. The emphasis is on the person's interaction with the ball.
+
+32. Person Inspecting a Sports Ball: 
+    - Attributes: A person closely examining or inspecting a sports ball, possibly checking for wear, inflation, or other details. The focus may be on the details of the inspection.
+
+33. Person Kicking a Sports Ball: 
+    - Attributes: A person kicking a sports ball, showcasing a kicking action. The focus is on the kicking motion and the ball.
+
+34. Person Picking Up a Sports Ball: 
+    - Attributes: A person picking up a sports ball, possibly after a play or for continued activity. The emphasis is on the lifting action.
+
+35. Person Serving a Sports Ball: 
+    - Attributes: A person initiating play by serving or throwing a sports ball. The focus is on the serving action and the ball.
+
+36. Person Signing a Sports Ball: 
+    - Attributes: A person signing or autographing a sports ball, possibly for a fan or as a commemorative gesture. The focus is on the signing action and the ball.
+
+37. Person Spinning a Sports Ball: 
+    - Attributes: A person spinning or twirling a sports ball, showcasing skill or coordination. The focus is on the spinning action and the ball.
+
+38. Person Throwing a Sports Ball: 
+    - Attributes: A person throwing a sports ball, capturing the moment of release. The focus is on the throwing action and the ball.
+
+39. Person and a Sports Ball: 
+    - Attributes: A general scene showing a person with a sports ball, without a specific action. This could be a person standing with a ball, suggesting various sports or recreational activities.
+
+- Class: A photo of a person holding a stop sign.
+  Description: The photo captures a person firmly grasping a stop sign, with the focus on the individual's interaction with the sign, highlighting its visibility.
+
+- Class: A photo of a person standing under a stop sign.
+  Description: The person is positioned beneath a stop sign, emphasizing their location under the sign, likely mounted on a pole or structure.
+
+- Class: A photo of a person stopping at a stop sign.
+  Description: The image captures a person in the act of stopping at a stop sign, suggesting adherence to traffic rules and conveying a sense of compliance.
+
+- Class: A photo of a person and a stop sign.
+  Description: This photo includes both a person and a stop sign, with the interaction between them left open to interpretation, showcasing the coexistence of the individual and the sign.
+
+- Class: A photo of a person carrying a suitcase.
+  Description: The central focus is on a person carrying a suitcase, indicating an action associated with travel or transportation, with attention drawn to the suitcase.
+
+- Class: A photo of a person dragging a suitcase.
+  Description: The person is depicted dragging a suitcase, suggesting movement and possibly a transition between locations, capturing a dynamic scenario.
+
+- Class: A photo of a person holding a suitcase.
+  Description: The primary subject is a person holding a suitcase, emphasizing possession or readiness for travel, with the suitcase being prominently featured.
+
+- Class: A photo of a person hugging a suitcase.
+  Description: The image shows a person in a posture of embracing a suitcase, conveying a more emotional or personal connection with the object.
+
+- Class: A photo of a person loading a suitcase.
+  Description: The person is engaged in loading a suitcase, indicating the action of placing items into it, typically associated with travel or storage.
+
+- Class: A photo of a person opening a suitcase.
+  Description: The individual is shown in the process of unlocking and opening a suitcase, implying preparation, organization, or retrieval of items.
+
+- Class: A photo of a person packing a suitcase.
+  Description: The focus is on a person actively packing a suitcase, suggesting the process of organizing and preparing for travel or storage.
+
+- Class: A photo of a person picking up a suitcase.
+  Description: The photo captures a person lifting a suitcase from a surface, emphasizing the initiation of travel or movement.
+
+- Class: A photo of a person zipping a suitcase.
+  Description: The person is shown using a zipper to close the suitcase, indicating the completion of packing or securing belongings.
+
+- Class: A photo of a person and a suitcase.
+  Description: The photo includes both a person and a suitcase, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person carrying a surfboard.
+  Description: The central focus is on a person carrying a surfboard, indicating engagement in a water-related activity such as surfing.
+
+- Class: A photo of a person dragging a surfboard.
+  Description: The person is depicted dragging a surfboard, suggesting movement and possibly transitioning between locations, capturing a dynamic scenario.
+
+- Class: A photo of a person holding a surfboard.
+  Description: The primary subject is a person holding a surfboard, emphasizing possession and highlighting the surfboard.
+
+- Class: A photo of a person inspecting a surfboard.
+  Description: The person is shown closely examining a surfboard, suggesting scrutiny or assessment, possibly related to its quality or condition.
+
+- Class: A photo of a person jumping a surfboard.
+  Description: The photo captures a person in mid-air, jumping on a surfboard, emphasizing a dynamic and energetic action associated with the water sport.
+
+- Class: A photo of a person lying on a surfboard.
+  Description: The person is depicted lying on a surfboard, suggesting a more relaxed or leisurely interaction with the water equipment.
+
+- Class: A photo of a person loading a surfboard.
+  Description: The individual is engaged in placing a surfboard onto a vehicle or storage space, implying transportation or storage.
+
+- Class: A photo of a person riding a surfboard.
+  Description: The person is actively surfing on a surfboard, capturing the essence of the water sport and dynamic movement on the water.
+
+- Class: A photo of a person standing on a surfboard.
+  Description: The individual is depicted in an upright position on a surfboard, conveying a sense of balance and control while surfing.
+
+- Class: A photo of a person sitting on a surfboard.
+  Description: The person is seated on a surfboard, possibly in a calm water setting, suggesting a more tranquil interaction.
+
+- Class: A photo of a person washing a surfboard.
+  Description: The person is shown cleaning or rinsing a surfboard, emphasizing maintenance and care for the water equipment.
+
+- Class: A photo of a person and a surfboard.
+  Description: The photo includes both a person and a surfboard, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person carrying a teddy bear.
+  Description: The central focus is on a person carrying a teddy bear, indicating possession and suggesting a personal and emotional connection.
+
+- Class: A photo of a person holding a teddy bear.
+  Description: The individual is specifically holding a teddy bear, with the emphasis on the interaction between the person and the bear.
+
+- Class: A photo of a person hugging a teddy bear.
+  Description: The person is shown in a posture of embracing a teddy bear, conveying a sense of comfort and affection.
+
+- Class: A photo of a person kissing a teddy bear.
+  Description: The individual is captured in the act of kissing a teddy bear, suggesting a tender and affectionate moment.
+
+- Class: A photo of a person and a teddy bear.
+  Description: The photo includes both a person and a teddy bear, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person carrying a tennis racket.
+  Description: The central focus is on a person carrying a tennis racket, indicating engagement in the sport and drawing attention to the racket.
+
+- Class: A photo of a person holding a tennis racket.
+  Description: The person is specifically holding a tennis racket, emphasizing the interaction between the individual and the sports equipment.
+
+- Class: A photo of a person inspecting a tennis racket.
+  Description: The person is closely examining a tennis racket, suggesting scrutiny or assessment, possibly related to its condition or suitability for use.
+
+- Class: A photo of a person swinging a tennis racket.
+  Description: The individual is shown in the motion of swinging a tennis racket, capturing the dynamic action associated with playing tennis.
+
+- Class: A photo of a person and a tennis racket.
+  Description: The photo includes both a person and a tennis racket, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person adjusting a tie.
+  Description: The image captures a person fine-tuning their tie, emphasizing the act of making adjustments, possibly for a formal or presentable appearance.
+
+- Class: A photo of a person cutting a tie.
+  Description: The person is using a tool or scissors to cut a tie, suggesting an intentional act of detachment or symbolic action.
+
+- Class: A photo of a person holding a tie.
+  Description: The central focus is on a person holding a tie, emphasizing the possession or display of the tie, possibly showcasing its design or significance.
+
+- Class: A photo of a person inspecting a tie.
+  Description: The person is closely examining a tie, suggesting scrutiny or evaluation, possibly related to quality, style, or condition.
+
+- Class: A photo of a person pulling a tie.
+  Description: The image captures a person pulling a tie, indicating a dynamic or playful action, possibly conveying a lighthearted or casual moment.
+
+- Class: A photo of a person tying a tie.
+  Description: The person is in the process of knotting a tie, with the focus on the steps involved in correctly tying the tie.
+
+- Class: A photo of a person wearing a tie.
+  Description: The person is already wearing a tie, implying a formal or professional setting, with attention drawn to the tied knot.
+
+- Class: A photo of a person and a tie.
+  Description: The photo includes both a person and a tie, with the nature of their interaction varying, showcasing the coexistence of the individual and the tie.
+
+- Class: A photo of a person holding a toaster.
+  Description: The central focus is on a person holding a toaster, indicating possession or use, with attention drawn to the visibility of the toaster.
+
+- Class: A photo of a person operating a toaster.
+  Description: The person is actively using the toaster, possibly inserting bread or performing another operation, emphasizing engagement with the appliance.
+
+- Class: A photo of a person repairing a toaster.
+  Description: The person is engaged in fixing or maintaining a toaster, implying technical skill or troubleshooting.
+
+- Class: A photo of a person and a toaster.
+  Description: The photo includes both a person and a toaster, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person cleaning a toilet.
+  Description: The person is involved in the cleaning process of a toilet, which may include scrubbing, wiping, or using cleaning products.
+
+- Class: A photo of a person flushing a toilet.
+  Description: The person is shown flushing a toilet, indicating a specific action, possibly captured candidly or staged.
+
+- Class: A photo of a person opening a toilet.
+  Description: The person is in the process of opening the toilet lid or seat, implying preparation for use or inspection.
+
+- Class: A photo of a person repairing a toilet.
+  Description: The person is engaged in fixing or maintaining a toilet, suggesting technical skill or troubleshooting.
+
+- Class: A photo of a person sitting on a toilet.
+  Description: The person is seated on a toilet, implying a private or personal moment, captured in a common daily setting.
+
+- Class: A photo of a person standing on a toilet.
+  Description: The person is standing on the toilet, suggesting an unusual or playful situation, possibly captured in a lighthearted context.
+
+- Class: A photo of a person washing a toilet.
+  Description: The person is washing or cleaning the exterior of a toilet, with a focus on hygiene and maintenance.
+
+- Class: A photo of a person and a toilet.
+  Description: The photo includes both a person and a toilet, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person brushing with a toothbrush.
+  Description: The person is actively using a toothbrush for oral care, implying a daily hygiene routine, with focus on the brushing action.
+
+- Class: A photo of a person holding a toothbrush.
+  Description: The person is holding a toothbrush, indicating possession and suggesting readiness for oral care.
+
+- Class: A photo of a person washing a toothbrush.
+  Description: The person is cleaning or rinsing a toothbrush, emphasizing the importance of maintaining cleanliness.
+
+- Class: A photo of a person and a toothbrush.
+  Description: The photo includes both a person and a toothbrush, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person installing a traffic light.
+  Description: The person is engaged in the installation of a traffic light, implying technical expertise and involvement in urban infrastructure work.
+
+- Class: A photo of a person repairing a traffic light.
+  Description: The person is fixing or maintaining a traffic light, suggesting technical skill or infrastructure maintenance.
+
+- Class: A photo of a person standing under a traffic light.
+  Description: The person is positioned beneath a traffic light, capturing a waiting or stationary moment, possibly emphasizing the urban environment.
+
+- Class: A photo of a person stopping at a traffic light.
+  Description: The person is shown following traffic rules and stopping at a traffic light, conveying adherence to regulations.
+
+- Class: A photo of a person and a traffic light.
+  Description: The photo includes both a person and a traffic light, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person directing a truck.
+  Description: The person is actively guiding or directing the movement of a truck, suggesting involvement in traffic management or transportation.
+
+- Class: A photo of a person driving a truck.
+  Description: The person is in the driver's seat of a truck, implying control and engagement in transportation or logistics.
+
+- Class: A photo of a person inspecting a truck.
+  Description: The person is closely examining a truck, suggesting scrutiny or assessment, possibly related to mechanical issues or compliance.
+
+- Class: A photo of a person loading a truck.
+  Description: The person is engaged in placing items into a truck, implying involvement in logistics or transportation.
+
+- Class: A photo of a person repairing a truck.
+  Description: The person is involved in fixing or maintaining a truck, suggesting technical skill or troubleshooting.
+
+- Class: A photo of a person riding a truck.
+  Description: The person is actively riding on a truck, capturing a dynamic and possibly unconventional scenario.
+
+- Class: A photo of a person sitting on a truck.
+  Description: The person is seated on a truck, suggesting a more relaxed or casual interaction with the vehicle.
+
+- Class: A photo of a person washing a truck.
+  Description: The person is shown cleaning or washing a truck, emphasizing maintenance and care for the vehicle.
+
+- Class: A photo of a person and a truck.
+  Description: The photo includes both a person and a truck, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person carrying an umbrella.
+  Description: The central focus is on a person carrying an umbrella, indicating preparedness for rain or sun, with attention to the visibility of the umbrella.
+
+- Class: A photo of a person holding an umbrella.
+  Description: The person is specifically holding an umbrella, emphasizing possession and suggesting protection from the elements.
+
+- Class: A photo of a person losing an umbrella.
+  Description: The image captures a person losing control of an umbrella, suggesting an unexpected or windy situation.
+
+- Class: A photo of a person opening an umbrella.
+  Description: The person is in the process of opening an umbrella, indicating preparedness for rain or shade.
+
+- Class: A photo of a person repairing an umbrella.
+  Description: The person is engaged in fixing or adjusting an umbrella, suggesting attention to detail and practical skills.
+
+- Class: A photo of a person setting an umbrella.
+  Description: The individual is shown setting up or arranging an umbrella, implying preparation for use.
+
+- Class: A photo of a person standing under an umbrella.
+  Description: The person is positioned beneath an open umbrella, conveying protection from the elements, possibly rain or sun.
+
+- Class: A photo of a person and an umbrella.
+  Description: The photo includes both a person and an umbrella, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person holding a vase.
+  Description: The person is holding a vase, indicating possession and possibly drawing attention to the design or contents of the vase.
+
+- Class: A photo of a person making a vase.
+  Description: The person is engaged in the process of creating or crafting a vase, implying artistic or artisanal activity.
+
+- Class: A photo of a person painting a vase.
+  Description: The person is shown painting or decorating a vase, emphasizing the artistic and creative aspect of the activity.
+
+- Class: A photo of a person and a vase.
+  Description: The photo includes both a person and a vase, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person filling a wine glass.
+  Description: The person is actively pouring a liquid, likely wine, into a glass, emphasizing the act of filling and possibly a celebratory or social context.
+
+- Class: A photo of a person holding a wine glass.
+  Description: The person is specifically holding a wine glass, drawing attention to the glassware and suggesting engagement in a social or celebratory setting.
+
+- Class: A photo of a person sipping a wine glass.
+  Description: The individual is shown in the act of sipping from a wine glass, capturing a moment of enjoyment or relaxation.
+
+- Class: A photo of a person toasting a wine glass.
+  Description: The person is engaged in a toasting gesture with a wine glass, suggesting a celebratory or social occasion.
+
+- Class: A photo of a person licking a wine glass.
+  Description: The person is shown licking a wine glass, implying a playful or unconventional action, possibly captured in a lighthearted context.
+
+- Class: A photo of a person washing a wine glass.
+  Description: The person is engaged in cleaning or rinsing a wine glass, emphasizing maintenance and care for the glassware.
+
+- Class: A photo of a person and a wine glass.
+  Description: The photo includes both a person and a wine glass, with the nature of their interaction varying, showcasing their coexistence in the frame.
+
+- Class: A photo of a person feeding a zebra.
+  Description: The person is shown actively providing food to a zebra, capturing a moment of interaction with the animal.
+
+- Class: A photo of a person holding a zebra.
+  Description: The person is holding a zebra, suggesting a unique and possibly unconventional scenario, possibly captured in a zoo or controlled environment.
+
+- Class: A photo of a person petting a zebra.
+  Description: The person is shown petting or stroking a zebra, conveying a sense of gentleness and connection with the animal.
+
+- Class: A photo of a person watching a zebra.
+  Description: The person is observed watching a zebra, possibly in a contemplative or observational stance, capturing a moment of interaction with the animal.
+
+- Class: A photo of a person and a zebra.
+  Description: The photo includes both a person and a zebra, with the nature of their interaction varying, showcasing their coexistence in the frame.

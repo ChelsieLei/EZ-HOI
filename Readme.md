@@ -72,9 +72,16 @@ bash scripts/hico_test_vitB_zs.sh
 | HICO-DET |[default](https://drive.google.com/drive/folders/1Uy18k4zzacQXw4ABYi61dxlyQBfyeP4k?usp=drive_link)| ResNet-50+ViT-L  | 38.61|37.70|38.89|
 
 ## Citation
-If you find our paper and/or code helpful, please consider citing [TO BE UPDATED]:
+If you find our paper and/or code helpful, please consider citing :
 ```
-
+@inproceedings{
+anonymous2024efficient,
+title={Efficient Zero-Shot {HOI} Detection: Enhancing {VLM} Adaptation with Innovative Prompt Learning},
+author={Anonymous},
+booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+year={2024},
+url={https://openreview.net/forum?id=R1Rrb2d5BH}
+}
 ```
 
 ## Acknowledgement

@@ -22,7 +22,11 @@ The downloaded files should be placed as follows. Otherwise, please replace the 
 
 2. Follow the environment setup in [ADA-CM](https://github.com/ltttpku/ADA-CM/tree/main).
 
-3. Download the pre-extracted CLIP image features from [HERE](https://drive.google.com/drive/folders/1Uy18k4zzacQXw4ABYi61dxlyQBfyeP4k?usp=drive_link). The downloaded files have to be placed as follows.
+3. run the python file to obtain the pre-extracted CLIP image features
+```
+python CLIP_hicodet_extract.py
+```
+Remember to make sure the correct path for annotation files and datasets.
 
 ```
 |- EZ-HOI

@@ -10,8 +10,6 @@
 /vis_vcoco
 /params
 
-# file 不需要提交的文件
-Readme.md
 
 # log 不需要提交的任意包含后缀名为log的文件
 *.log

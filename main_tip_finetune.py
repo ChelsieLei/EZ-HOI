@@ -697,7 +697,7 @@ if __name__ == '__main__':
     parser.add_argument('--txt_mem_init', default=False, action='store_true')
     parser.add_argument('--mem_adpt_self', default=False, action='store_true')
     parser.add_argument('--mem_sa_only', default=False, action='store_true')
-    parser.add_argument('--vlmtxt', default='llava', type=str, choices=('llava', 'fix'))
+    parser.add_argument('--vlmtxt', default='llava', type=str, choices=('llava', 'llava2', 'fix'))
     parser.add_argument('--img_descrip_prompt', default=False, action='store_true')  ### image encoder VLM image description
     parser.add_argument('--txtcls_descrip', default=False, action='store_true')  ### text encoder adapter
     parser.add_argument('--txtcls_pt', default=False, action='store_true')   ### text encoder class specific prompts

@@ -1959,6 +1959,36 @@ def build_detector(args, class_corr, object_n_verb_to_interaction, clip_model_pa
                 cls_descrip.append((vcoco_hoi_text_label)[HOI_TO_AO_COCO[int(hoii)]] +\
                                         ":" +tnt_dep)
         hoicls_txt, object_embedding = get_origin_text_emb(args, clip_model=fixed_clip_model, tgt_class_names=cls_descrip, obj_class_names=obj_class_names)
+    elif  args.vlmtxt =='llava2':  
+        assert args.dataset == 'hicodet'  
+        file_path = ("./hico_txt_llava/hico_HOI_descrip_2.txt")
+        cls_descrip = []
+        with open(file_path, 'r') as file:
+            lines = file.readlines()
+            lines = [line.rstrip() for line in lines if line.rstrip()]
+
+        hico_txt_description = {}
+        cur_key = 0
+        for l_idx,line_i in enumerate(lines):
+            if line_i[0] == '(' and line_i[1].isdigit():
+                act, obj = line_i.split(",")
+                act = int(act[1:])
+                obj = int(obj[1:-1])
+                hoii = MAP_AO_TO_HOI_COCO[(act, obj)]
+                cur_key = hoii
+                hico_txt_description[cur_key] = ''
+            else:
+                hico_txt_description[cur_key] += line_i + ' '
+
+        for  hoii in (hico_txt_description):
+            tnt_dep = hico_txt_description[hoii][:300]
+            quit_len = len(tnt_dep.split(".")[-1])
+            if quit_len > 0:
+                tnt_dep = tnt_dep[:-quit_len]
+            cls_descrip.append(list(hico_text_label.hico_text_label.values())[int(hoii)] +\
+                                ":" +tnt_dep)
+        hoicls_txt, object_embedding = get_origin_text_emb(args, clip_model=fixed_clip_model, tgt_class_names=cls_descrip, obj_class_names=obj_class_names)
+
     else:
         hoicls_txt, object_embedding = get_origin_text_emb(args, clip_model=fixed_clip_model, tgt_class_names=list(hico_text_label.hico_text_label.values()), obj_class_names=obj_class_names)
 

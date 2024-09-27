@@ -75,12 +75,11 @@ bash scripts/hico_test_vitB_zs.sh
 If you find our paper and/or code helpful, please consider citing :
 ```
 @inproceedings{
-anonymous2024efficient,
+lei2024efficient,
 title={Efficient Zero-Shot {HOI} Detection: Enhancing {VLM} Adaptation with Innovative Prompt Learning},
-author={Anonymous},
+author={Lei, Qinqian and Wang, Bo and Robby T., Tan},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-year={2024},
-url={https://openreview.net/forum?id=R1Rrb2d5BH}
+year={2024}
 }
 ```
 

@@ -1,4 +1,4 @@
-# [NeurIPS 2024] Efficient Zero-Shot HOI Detection: Enhancing VLM Adaptation with Innovative Prompt Learning
+# [NeurIPS 2024] EZ-HOI: VLM Adaptation via Guided  Prompt Learning for Zero-Shot HOI Detection
 
 ## Paper Links
 

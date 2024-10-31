@@ -82,7 +82,7 @@ If you find our paper and/or code helpful, please consider citing :
 ```
 @inproceedings{
 lei2024efficient,
-title={Efficient Zero-Shot HOI Detection: Enhancing VLM Adaptation with Innovative Prompt Learning},
+title={EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection},
 author={Lei, Qinqian and Wang, Bo and Robby T., Tan},
 booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
 year={2024}

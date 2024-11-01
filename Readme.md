@@ -2,7 +2,7 @@
 
 ## Paper Links
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-1234.5678-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/)  -->
+[![arXiv](https://img.shields.io/badge/arXiv-1234.5678-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2410.23904) 
 [![Project Page](https://img.shields.io/badge/Project%20Page-Visit%20Here-4D8C2A?style=for-the-badge)](https://chelsielei.github.io/EZHOI_ProjPage/)
 
 

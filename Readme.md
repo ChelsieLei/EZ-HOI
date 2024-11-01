@@ -2,8 +2,8 @@
 
 ## Paper Links
 
-[![arXiv](https://img.shields.io/badge/arXiv)](https://arxiv.org/pdf/2410.23904) 
-[![Project Page](https://img.shields.io/badge/Project)](https://chelsielei.github.io/EZHOI_ProjPage/)
+[arXiv](https://arxiv.org/pdf/2410.23904) 
+[Project Page](https://chelsielei.github.io/EZHOI_ProjPage/)
 
 
 ## Dataset 

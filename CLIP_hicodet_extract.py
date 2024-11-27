@@ -12,6 +12,7 @@ clip_mode_list = ['ViT-B/16' , 'ViT-L/14@336px']
 
 for mode in mode_list:
     for clip_mode in clip_mode_list:
+        ##### load all file names for the CLIP processing. NOT using the annotation
         if mode == 'train':
             hico_problems = json.load(open("hicodet/trainval_hico.json", 'r'))
         else:

@@ -7,5 +7,5 @@ CUDA_VISIBLE_DEVICES=0 python main_tip_finetune.py --world-size 1 \
  --batch-size 8  --logits_type "HO"  --port 1236 \
  --txtcls_pt   --img_align  --unseen_pt_inj  --img_clip_pt  \
  --zs --zs_type "unseen_verb" \
- --clip_img_file   hicodet_pkl_files/clipbase_img_hicodet_test \
- --eval --resume <path to the model file>
+ --eval --resume <path to the model file>  \
+ --self_image_path  <self-defined image path>

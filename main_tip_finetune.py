@@ -629,7 +629,8 @@ if __name__ == '__main__':
     parser.add_argument('--adapter_num_layers', type=int, default=1)
     parser.add_argument('--emb_dim', type=int, default=64)
     parser.add_argument('--vis_embed_dim', type=int, default=64)
-    
+    parser.add_argument('--self_image_path', default=None, type=str,
+        help="Path to an image file.")    
     
     ## prompt learning
     parser.add_argument('--N_CTX', type=int, default=2)  # number of context vectors

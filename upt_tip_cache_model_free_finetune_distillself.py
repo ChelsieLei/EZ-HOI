@@ -532,7 +532,16 @@ class MultiModalPromptLearner(nn.Module):
 
         if self.img_clip_pt is True:
             self.img_clip_pt_adapter = Adapter(vis_dim, pt_tune = True, prior_size = ctx_dim, down_size=args.emb_dim)
-            self.clip_img_file = args.clip_img_file
+            self.self_image_path = args.self_image_path
+            if args.self_image_path is None:
+                self.clip_img_file = args.clip_img_file
+            else:
+                temp_model, preprocess = clip.load(args.clip_model_name, device=ctx_vectors.device)
+                image = preprocess(Image.open(args.self_image_path)).unsqueeze(0).to(ctx_vectors.device)
+                with torch.no_grad():
+                    image_features = temp_model.encode_image(image)
+                    image_features = image_features.squeeze(0)
+                self.clip_img_file = image_features
 
         classnames = [name[11:].replace("_", " ") for name in classnames]
         name_lens = [len(_tokenizer.encode(name)) for name in classnames]
@@ -607,13 +616,16 @@ class MultiModalPromptLearner(nn.Module):
         else:
             visual_deep_prompts = []
             ##### TODO add the image CLIP combination here
-            if self.img_clip_pt is True:
+            if self.img_clip_pt is True and self.self_image_path is None:
                 clip_img_list = []
                 for fn in filenames:
                     clip_img = pickle.load(open(os.path.join(self.clip_img_file, fn.split(".")[0]+"_clip.pkl"),'rb'))
                     clip_img /= clip_img.norm(dim=-1, keepdim=True)
                     clip_img_list.append(clip_img)
                 img_clip_prior = torch.stack(clip_img_list)
+
+            elif self.img_clip_pt is True and self.self_image_path is not None:
+                img_clip_prior = (self.clip_img_file).unsqueeze(0).unsqueeze(0)
 
             if self.deunify_pt is False:
                 if self.txtcls_pt is True:
@@ -632,7 +644,6 @@ class MultiModalPromptLearner(nn.Module):
         
         if self.img_clip_pt is True:
             for index, vis_pt_i in enumerate(visual_deep_prompts):
-                # pdb.set_trace()
                 visual_deep_prompts[index] = self.img_clip_pt_adapter(vis_pt_i.to(self.ctx.device).unsqueeze(1).repeat(1,len(img_clip_prior),1),
                                 (img_clip_prior.to(self.ctx.device), None))
             first_ly_vis_pt = self.img_clip_pt_adapter(first_ly_vis_pt.to(self.ctx.device).unsqueeze(1).repeat(1,len(img_clip_prior),1),
@@ -830,10 +841,11 @@ class UPT(nn.Module):
 
         self.use_distill = args.use_distill
         self.use_consistloss = args.use_consistloss
+        self.self_image_path = args.self_image_path
 
         self.num_classes = num_classes
         self.use_multi_hot = args.use_multi_hot
-        self.obj_affordance = args.obj_affordance
+        # self.obj_affordance = args.obj_affordance
 
 
         num_shot = args.num_shot
@@ -999,9 +1011,9 @@ class UPT(nn.Module):
         if self.use_weight_pred:
             num_branch = len(self.logits_type.split('+'))
             self.weight_pred = Weight_Pred(input_dim=self.visual_output_dim*3, output_dim=num_branch)
-        if self.obj_affordance:
-            self.obj_affordance_query = nn.Parameter(torch.empty(1, self.visual_output_dim, dtype=self.clip_head.dtype))  # to be optimized
-            self.obj_affordance_learner = nn.MultiheadAttention(embed_dim=512*1, num_heads=1, dropout=0.3, batch_first=True)
+        # if self.obj_affordance:
+        #     self.obj_affordance_query = nn.Parameter(torch.empty(1, self.visual_output_dim, dtype=self.clip_head.dtype))  # to be optimized
+        #     self.obj_affordance_learner = nn.MultiheadAttention(embed_dim=512*1, num_heads=1, dropout=0.3, batch_first=True)
         # if self.dataset == 'swig':
         #     self.verb2interaction = torch.as_tensor(kwargs["verb2interaction"])
         self.use_mlp_proj = kwargs["use_mlp_proj"]
@@ -1410,7 +1422,8 @@ class UPT(nn.Module):
             x, y = torch.nonzero(pr).unbind(1)
             scores = torch.sigmoid(lg[x, y])
             # if flag == 1:
-            #     pdb.set_trace()      
+            #     pdb.set_trace()   
+           
             detections.append(dict(
                 boxes=bx, pairing=torch.stack([h[x], o[x]]),
                 scores=scores* pr[x, y] , labels=y, 
@@ -1439,9 +1452,9 @@ class UPT(nn.Module):
                 # sys.exit()
             
             object_embs = self.object_embedding[labels.to(self.object_embedding.device)]
-            if self.obj_affordance:
-                affordance_embs = self.get_obj_affordances(labels, region_props[0]['boxes'].device)
-                object_embs = affordance_embs.squeeze(1)
+            # if self.obj_affordance:
+            #     affordance_embs = self.get_obj_affordances(labels, region_props[0]['boxes'].device)
+            #     object_embs = affordance_embs.squeeze(1)
 
             mask[b_idx,:n] = False
             
@@ -1637,7 +1650,7 @@ class UPT(nn.Module):
         else:
             txtcls_feat = None
 
-        if self.img_clip_pt is True:
+        if self.img_clip_pt is True and self.self_image_path is None:
             filenames = [tgti['filename'] for tgti in targets]
         else:
             filenames = None
@@ -1871,7 +1884,7 @@ def get_origin_text_emb(args, clip_model, tgt_class_names, obj_class_names):
     return origin_text_embedding, object_embedding
 
 
-def build_detector(args, class_corr, object_n_verb_to_interaction, clip_model_path, num_anno, verb2interaction=None):
+def build_detector(args, class_corr, object_n_verb_to_interaction, clip_model_path, num_anno=None, verb2interaction=None):
     if args.d_detr:
         detr, _, postprocessors = build_model_d_detr(args)
     else:

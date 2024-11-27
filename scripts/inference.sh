@@ -1,3 +1,5 @@
+#### self-defined image inference
+
 CUDA_VISIBLE_DEVICES=0 python main_tip_finetune.py --world-size 1 \
  --pretrained "checkpoints/detr-r50-hicodet.pth" \
  --output-dir checkpoints/hico_HO_pt_default_vitbase/ \

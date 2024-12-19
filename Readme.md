@@ -47,6 +47,7 @@ Remember to make sure the correct path for annotation files and datasets.
 :   :      
 ```
 
+4. modify the installed [pocket](https://github.com/fredzzhang/pocket) library as mentioned [here](https://github.com/ChelsieLei/EZ-HOI/issues/2)
 
 ## HICO-DET
 ### Train on HICO-DET:

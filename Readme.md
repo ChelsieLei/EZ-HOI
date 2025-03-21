@@ -28,8 +28,8 @@ The downloaded files should be placed as follows. Otherwise, please replace the 
 
 2. Follow the environment setup in [ADA-CM](https://github.com/ltttpku/ADA-CM/tree/main).
 
-**Reminder**: Please check whether you are using the local CLIP dir provided by our EZ-HOI repo. 
-If you have already installed `clip` in their Python env, to avoid the situation that you use the built-in clip package in your python env (i.e., via pip install clip) rather than the local CLIP dir provided by our EZ-HOI repo. Please use the local CLIP by setting the `PYTHONPATH` , 
+**Reminder**: 
+If you have already installed the clip package in your Python environment (e.g., via pip install clip), please ensure that you use the local CLIP directory provided in our EZ-HOI repository instead. To do this, set the  `PYTHONPATH` to include the local CLIP path so that it takes precedence over the installed package.
 ```
 export PYTHONPATH=$PYTHONPATH:"your_path/EZ-HOI/CLIP"
 ```

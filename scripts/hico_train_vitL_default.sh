@@ -1,5 +1,5 @@
 CUDA_VISIBLE_DEVICES=0,1,2,3  python main_tip_finetune.py --world-size 4 \
- --pretrained "/mnt/disk2/qinqian/Uniprompt_hoi/params/detr-r50-e632da11.pth"  \
+ --pretrained "checkpoints/detr-r50-hicodet.pth"  \
  --output-dir checkpoints/ \
  --epochs 12  --use_insadapter  --num_classes 117 --use_multi_hot \
  --file1 hicodet_pkl_files/hicodet_union_embeddings_cachemodel_crop_padding_zeros_vit336.p  \
